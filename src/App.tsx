@@ -5,6 +5,10 @@ import parse from 'html-react-parser'
 import './App.css';
 import 'leaflet/dist/leaflet.css';
 import markers from './markers.json'
+import localization from './localizations/zh_tw.json'
+
+const GROUP_NAMES: {[index: string]: string} = localization['groupName']
+const MARK_NAMES: {[index: string]: string} = localization['marker']
 
 function App() {
   const bounds: L.LatLngBounds = L.latLngBounds(
@@ -14,11 +18,12 @@ function App() {
 
   const overlays = Object.entries(markers).map((entry: [string, any]) => {
     const [markerGroupName, markerGroup] = entry
-    const markerGroupDisplayName = markerGroup.name
-    const overlayName = `<img src='./assets/Layercontrol%20Icons/${markerGroupName}.png' height='20' />  ${markerGroupDisplayName}`
+    const translatedMarkerGroupName = GROUP_NAMES[markerGroupName]
+    const overlayName = `<img src='./assets/Layercontrol%20Icons/${markerGroupName}.png' height='20' />  ${translatedMarkerGroupName}`
     
-    const markers = markerGroup.markers.map((marker: any) => {
+    const markers = markerGroup.markers.map((marker: {position: [number, number], icon: string, id: string, tooltip: string}) => {
       const markerIcon = marker.icon
+      const tooltipContent = MARK_NAMES[marker.id] || marker.tooltip
       const icon = L.icon({
         iconUrl: `assets/Markers%20Icons/${markerIcon}.png`,
         iconSize: [42, 42],
@@ -29,7 +34,7 @@ function App() {
       return (
         <Marker position={marker.position} icon={icon}>
           <Tooltip className="globalmarker">
-            {parse(marker.popup)}
+            {parse(tooltipContent)}
           </Tooltip>
         </Marker>
       )
