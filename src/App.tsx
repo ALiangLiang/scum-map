@@ -21,8 +21,8 @@ function App() {
       const markerIcon = marker.icon
       const icon = L.icon({
         iconUrl: `assets/Markers%20Icons/${markerIcon}.png`,
-        iconSize: [20, 20],
-        iconAnchor: [10, 10],
+        iconSize: [42, 42],
+        iconAnchor: [21, 42],
         popupAnchor: [-3, -76]
       })
 
