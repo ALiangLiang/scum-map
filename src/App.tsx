@@ -7,27 +7,6 @@ import 'leaflet/dist/leaflet.css';
 import markers from './markers.json'
 
 function App() {
-  const crs = Object.assign({}, L.CRS.Simple, {
-    projection: L.Projection.LonLat,
-    transformation: new L.Transformation(0.0002133333333333333, 0, -0.0002133333333333333, 0),
-    scale: function(zoom: number) {
-      return Math.pow(2, zoom)
-    },
-
-    zoom: function(scale: number) {
-      return Math.log(scale) / Math.LN2
-    },
-
-    distance: function(latlng1: L.LatLng, latlng2: L.LatLng) {
-      const dx = latlng2.lng - latlng1.lng
-      const dy = latlng2.lat - latlng1.lat
-
-      return Math.sqrt(dx * dx + dy * dy)
-    },
-
-    infinite: true,
-  })
-
   const bounds: L.LatLngBounds = L.latLngBounds(
     L.latLng(620000, 900000),
     L.latLng(-900000, -620000)
@@ -36,7 +15,7 @@ function App() {
   const overlays = Object.entries(markers).map((entry: [string, any]) => {
     const [markerGroupName, markerGroup] = entry
     const markerGroupDisplayName = markerGroup.name
-    const overlayName = `<img src='./assets/Layercontrol%20Icons/mgi_${markerGroupName}.png' height='20' />  ${markerGroupDisplayName}`
+    const overlayName = `<img src='./assets/Layercontrol%20Icons/${markerGroupName}.png' height='20' />  ${markerGroupDisplayName}`
     
     const markers = markerGroup.markers.map((marker: any) => {
       const markerIcon = marker.icon
