@@ -1,6 +1,6 @@
 import React from 'react';
 import L from 'leaflet';
-import { MapContainer, ImageOverlay, LayersControl, LayerGroup, Marker, Tooltip } from 'react-leaflet'
+import { MapContainer, useMapEvent, ImageOverlay, LayersControl, LayerGroup, Marker, Tooltip } from 'react-leaflet'
 import parse from 'html-react-parser'
 import './App.css';
 import 'leaflet/dist/leaflet.css';
@@ -12,8 +12,8 @@ const MARK_NAMES: {[index: string]: string} = localization['marker']
 
 function App() {
   const bounds: L.LatLngBounds = L.latLngBounds(
-    L.latLng(620000, 900000),
-    L.latLng(-900000, -620000)
+    L.latLng(620000, -620000),
+    L.latLng(-900000, 900000)
   )
 
   const overlays = Object.entries(markers).map((entry: [string, any]) => {
@@ -49,6 +49,22 @@ function App() {
     )
   })
 
+  function ShowCoordinates() {
+    const map = useMapEvent('click', (e) => {
+      const oldLat = e.latlng.lat
+      const oldLng = e.latlng.lng
+      const newLat = oldLat
+      const newLng = oldLng * -1
+      L.popup()
+      .setLatLng(e.latlng)
+      .setContent("<b>座標：</b><br>-地圖上：<br><text style=color:#0062ff>" + e.latlng +
+      "</text><br><br>-遊戲中：<br><text style=color:#0062ff>" + newLng + " " + newLat + " test: " + e.latlng.lat + " test: " + -e.latlng.lng +
+      "</text><br><br>-傳送指令：<br><text style=color:#ff2a00>#teleport " + newLng.toFixed(8) + " " + newLat.toFixed(8) + " 0</text>")
+      .openOn(map);
+    })
+    return null
+  }
+
   return (
     <div className="App">
       <MapContainer
@@ -59,6 +75,7 @@ function App() {
         crs={L.CRS.Simple}
         renderer={L.svg()}
       >
+        <ShowCoordinates />
         <ImageOverlay
           url="./scummap.jpg"
           bounds={bounds}
