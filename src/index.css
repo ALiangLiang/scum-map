@@ -39,10 +39,6 @@ code {
      border-right: 0px none !important;
 }
 
-.leaflet-marker-icon{
-  filter: invert(1);
-}
-
 .globalmarker{
   border: 0px none !important;
   background-color: rgba(0,0,0,0.5) !important;
