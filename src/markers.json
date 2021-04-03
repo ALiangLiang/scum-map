@@ -1,6 +1,6 @@
 {
   "fuel": {
-    "name": "加油站",
+    "name": "fuel",
     "markers": [
       {
         "position": [
@@ -8,7 +8,8 @@
           641385.75
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID109888)",
+        "tooltip": "Gas Station",
+        "id": 109888,
         "category": "fuel"
       },
       {
@@ -17,7 +18,8 @@
           740223.313
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID109886)",
+        "tooltip": "Gas Station",
+        "id": 109886,
         "category": "fuel"
       },
       {
@@ -26,7 +28,8 @@
           829062.813
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID109882)",
+        "tooltip": "Gas Station",
+        "id": 109882,
         "category": "fuel"
       },
       {
@@ -35,7 +38,8 @@
           -101537.961
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID109862)",
+        "tooltip": "Gas Station",
+        "id": 109862,
         "category": "fuel"
       },
       {
@@ -44,7 +48,8 @@
           -192639.984
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35363)",
+        "tooltip": "Gas Station",
+        "id": 35363,
         "category": "fuel"
       },
       {
@@ -53,7 +58,8 @@
           -20799.324
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35284)",
+        "tooltip": "Gas Station",
+        "id": 35284,
         "category": "fuel"
       },
       {
@@ -62,7 +68,8 @@
           506379.125
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35258)",
+        "tooltip": "Gas Station",
+        "id": 35258,
         "category": "fuel"
       },
       {
@@ -71,7 +78,8 @@
           406547.406
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35256)",
+        "tooltip": "Gas Station",
+        "id": 35256,
         "category": "fuel"
       },
       {
@@ -80,7 +88,8 @@
           -116912.977
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35254)",
+        "tooltip": "Gas Station",
+        "id": 35254,
         "category": "fuel"
       },
       {
@@ -89,7 +98,8 @@
           -283822.063
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35252)",
+        "tooltip": "Gas Station",
+        "id": 35252,
         "category": "fuel"
       },
       {
@@ -98,7 +108,8 @@
           411307.813
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35250)",
+        "tooltip": "Gas Station",
+        "id": 35250,
         "category": "fuel"
       },
       {
@@ -107,7 +118,8 @@
           112386.82
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35248)",
+        "tooltip": "Gas Station",
+        "id": 35248,
         "category": "fuel"
       },
       {
@@ -116,7 +128,8 @@
           -250502.766
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35246)",
+        "tooltip": "Gas Station",
+        "id": 35246,
         "category": "fuel"
       },
       {
@@ -125,7 +138,8 @@
           -503154.031
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35244)",
+        "tooltip": "Gas Station",
+        "id": 35244,
         "category": "fuel"
       },
       {
@@ -134,13 +148,14 @@
           48661.738
         ],
         "icon": "fuel",
-        "popup": "Gas Station<br/>DEBUG(ID35242)",
+        "tooltip": "Gas Station",
+        "id": 35242,
         "category": "fuel"
       }
     ]
   },
   "car": {
-    "name": "車輛",
+    "name": "car",
     "markers": [
       {
         "position": [
@@ -148,7 +163,8 @@
           829034.313
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109884)",
+        "tooltip": "Car Spawn",
+        "id": 109884,
         "category": "car"
       },
       {
@@ -157,7 +173,8 @@
           -51150.242
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109876)",
+        "tooltip": "Car Spawn",
+        "id": 109876,
         "category": "car"
       },
       {
@@ -166,7 +183,8 @@
           -302385.25
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109854)",
+        "tooltip": "Car Spawn",
+        "id": 109854,
         "category": "car"
       },
       {
@@ -175,7 +193,8 @@
           -42230.688
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109852)",
+        "tooltip": "Car Spawn",
+        "id": 109852,
         "category": "car"
       },
       {
@@ -184,7 +203,8 @@
           -367663.25
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109850)",
+        "tooltip": "Car Spawn",
+        "id": 109850,
         "category": "car"
       },
       {
@@ -193,7 +213,8 @@
           -353173
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109842)",
+        "tooltip": "Car Spawn",
+        "id": 109842,
         "category": "car"
       },
       {
@@ -202,7 +223,8 @@
           -152769.625
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109828)",
+        "tooltip": "Car Spawn",
+        "id": 109828,
         "category": "car"
       },
       {
@@ -211,7 +233,8 @@
           -553843.375
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109822)",
+        "tooltip": "Car Spawn",
+        "id": 109822,
         "category": "car"
       },
       {
@@ -220,7 +243,8 @@
           148881.813
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109820)",
+        "tooltip": "Car Spawn",
+        "id": 109820,
         "category": "car"
       },
       {
@@ -229,7 +253,8 @@
           206465.094
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109806)",
+        "tooltip": "Car Spawn",
+        "id": 109806,
         "category": "car"
       },
       {
@@ -238,7 +263,8 @@
           864522.125
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109788)",
+        "tooltip": "Car Spawn",
+        "id": 109788,
         "category": "car"
       },
       {
@@ -247,7 +273,8 @@
           41867.195
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109786)",
+        "tooltip": "Car Spawn",
+        "id": 109786,
         "category": "car"
       },
       {
@@ -256,7 +283,8 @@
           177271.375
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109784)",
+        "tooltip": "Car Spawn",
+        "id": 109784,
         "category": "car"
       },
       {
@@ -265,7 +293,8 @@
           494948.938
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109782)",
+        "tooltip": "Car Spawn",
+        "id": 109782,
         "category": "car"
       },
       {
@@ -274,7 +303,8 @@
           242659.875
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109780)",
+        "tooltip": "Car Spawn",
+        "id": 109780,
         "category": "car"
       },
       {
@@ -283,7 +313,8 @@
           546855.813
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109778)",
+        "tooltip": "Car Spawn",
+        "id": 109778,
         "category": "car"
       },
       {
@@ -292,7 +323,8 @@
           542377.938
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109776)",
+        "tooltip": "Car Spawn",
+        "id": 109776,
         "category": "car"
       },
       {
@@ -301,7 +333,8 @@
           328299.813
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109774)",
+        "tooltip": "Car Spawn",
+        "id": 109774,
         "category": "car"
       },
       {
@@ -310,7 +343,8 @@
           561177.25
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109772)",
+        "tooltip": "Car Spawn",
+        "id": 109772,
         "category": "car"
       },
       {
@@ -319,7 +353,8 @@
           -169054.531
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109770)",
+        "tooltip": "Car Spawn",
+        "id": 109770,
         "category": "car"
       },
       {
@@ -328,7 +363,8 @@
           -215546.203
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109768)",
+        "tooltip": "Car Spawn",
+        "id": 109768,
         "category": "car"
       },
       {
@@ -337,7 +373,8 @@
           -57324.813
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109766)",
+        "tooltip": "Car Spawn",
+        "id": 109766,
         "category": "car"
       },
       {
@@ -346,7 +383,8 @@
           168439.266
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109764)",
+        "tooltip": "Car Spawn",
+        "id": 109764,
         "category": "car"
       },
       {
@@ -355,7 +393,8 @@
           62962.086
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109762)",
+        "tooltip": "Car Spawn",
+        "id": 109762,
         "category": "car"
       },
       {
@@ -364,7 +403,8 @@
           92756.938
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109760)",
+        "tooltip": "Car Spawn",
+        "id": 109760,
         "category": "car"
       },
       {
@@ -373,7 +413,8 @@
           -149301.375
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109758)",
+        "tooltip": "Car Spawn",
+        "id": 109758,
         "category": "car"
       },
       {
@@ -382,7 +423,8 @@
           460015.125
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109756)",
+        "tooltip": "Car Spawn",
+        "id": 109756,
         "category": "car"
       },
       {
@@ -391,7 +433,8 @@
           105946.375
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109754)",
+        "tooltip": "Car Spawn",
+        "id": 109754,
         "category": "car"
       },
       {
@@ -400,13 +443,14 @@
           -14679.118
         ],
         "icon": "car",
-        "popup": "Car Spawn<br/>DEBUG(ID109744)",
+        "tooltip": "Car Spawn",
+        "id": 109744,
         "category": "car"
       }
     ]
   },
   "landmark": {
-    "name": "地標",
+    "name": "landmark",
     "markers": [
       {
         "position": [
@@ -414,7 +458,8 @@
           -13223.723
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109880)",
+        "tooltip": "Wind Turbine",
+        "id": 109880,
         "category": "windt"
       },
       {
@@ -423,7 +468,8 @@
           -30670.043
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109878)",
+        "tooltip": "Wind Turbine",
+        "id": 109878,
         "category": "windt"
       },
       {
@@ -432,7 +478,8 @@
           -53052.492
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109874)",
+        "tooltip": "Wind Turbine",
+        "id": 109874,
         "category": "windt"
       },
       {
@@ -441,7 +488,8 @@
           -72749.07
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109872)",
+        "tooltip": "Wind Turbine",
+        "id": 109872,
         "category": "windt"
       },
       {
@@ -450,7 +498,8 @@
           -90935.188
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109870)",
+        "tooltip": "Wind Turbine",
+        "id": 109870,
         "category": "windt"
       },
       {
@@ -459,7 +508,8 @@
           -111917.344
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109868)",
+        "tooltip": "Wind Turbine",
+        "id": 109868,
         "category": "windt"
       },
       {
@@ -468,7 +518,8 @@
           -133116.719
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109866)",
+        "tooltip": "Wind Turbine",
+        "id": 109866,
         "category": "windt"
       },
       {
@@ -477,7 +528,8 @@
           -153164.25
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109864)",
+        "tooltip": "Wind Turbine",
+        "id": 109864,
         "category": "windt"
       },
       {
@@ -486,7 +538,8 @@
           355272.563
         ],
         "icon": "watchtower",
-        "popup": "Watch Tower<br/>DEBUG(ID109860)",
+        "tooltip": "Watch Tower",
+        "id": 109860,
         "category": "watchtower"
       },
       {
@@ -495,7 +548,8 @@
           564078.5
         ],
         "icon": "watchtower",
-        "popup": "Watch Tower<br/>DEBUG(ID109858)",
+        "tooltip": "Watch Tower",
+        "id": 109858,
         "category": "watchtower"
       },
       {
@@ -504,7 +558,8 @@
           426050.313
         ],
         "icon": "t1mech",
-        "popup": "TECH01 Weapons Factory<br/>DEBUG(ID109836)",
+        "tooltip": "TECH01 Weapons Factory",
+        "id": 109836,
         "category": "t1mech"
       },
       {
@@ -513,7 +568,8 @@
           207725.859
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109808)",
+        "tooltip": "Wind Turbine",
+        "id": 109808,
         "category": "windt"
       },
       {
@@ -522,7 +578,8 @@
           156902.656
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109748)",
+        "tooltip": "Wind Turbine",
+        "id": 109748,
         "category": "windt"
       },
       {
@@ -531,7 +588,8 @@
           179601.469
         ],
         "icon": "windt",
-        "popup": "Wind Turbine<br/>DEBUG(ID109746)",
+        "tooltip": "Wind Turbine",
+        "id": 109746,
         "category": "windt"
       },
       {
@@ -540,7 +598,8 @@
           142944.828
         ],
         "icon": "watchtower",
-        "popup": "Watch Tower<br/>DEBUG(ID109722)",
+        "tooltip": "Watch Tower",
+        "id": 109722,
         "category": "watchtower"
       },
       {
@@ -549,7 +608,8 @@
           150242.781
         ],
         "icon": "church",
-        "popup": "Lokve Church<br/>DEBUG(ID109720)",
+        "tooltip": "Lokve Church",
+        "id": 109720,
         "category": "church"
       },
       {
@@ -558,7 +618,8 @@
           225820.453
         ],
         "icon": "watchtower",
-        "popup": "Watch Tower<br/>DEBUG(ID109718)",
+        "tooltip": "Watch Tower",
+        "id": 109718,
         "category": "watchtower"
       },
       {
@@ -567,7 +628,8 @@
           385969.531
         ],
         "icon": "cabin",
-        "popup": "Cabin<br/>DEBUG(ID109716)",
+        "tooltip": "Cabin",
+        "id": 109716,
         "category": "cabin"
       },
       {
@@ -576,7 +638,8 @@
           58372.371
         ],
         "icon": "watchtower",
-        "popup": "Watch Tower<br/>DEBUG(ID109712)",
+        "tooltip": "Watch Tower",
+        "id": 109712,
         "category": "watchtower"
       },
       {
@@ -585,7 +648,8 @@
           -2489.14
         ],
         "icon": "cabin",
-        "popup": "Cabin<br/>DEBUG(ID109710)",
+        "tooltip": "Cabin",
+        "id": 109710,
         "category": "cabin"
       },
       {
@@ -594,7 +658,8 @@
           -271409.813
         ],
         "icon": "church",
-        "popup": "Mirkovci Church<br/>DEBUG(ID109708)",
+        "tooltip": "Mirkovci Church",
+        "id": 109708,
         "category": "church"
       },
       {
@@ -603,7 +668,8 @@
           -488860.625
         ],
         "icon": "church",
-        "popup": "Rude Church<br/>DEBUG(ID109706)",
+        "tooltip": "Rude Church",
+        "id": 109706,
         "category": "church"
       },
       {
@@ -612,7 +678,8 @@
           -175176.563
         ],
         "icon": "cabin",
-        "popup": "Cabin<br/>DEBUG(ID109704)",
+        "tooltip": "Cabin",
+        "id": 109704,
         "category": "cabin"
       },
       {
@@ -621,7 +688,8 @@
           -57908.32
         ],
         "icon": "cabin",
-        "popup": "Cabin<br/>DEBUG(ID109702)",
+        "tooltip": "Cabin",
+        "id": 109702,
         "category": "cabin"
       },
       {
@@ -630,7 +698,8 @@
           -74379.781
         ],
         "icon": "cabin",
-        "popup": "Cabin<br/>DEBUG(ID109700)",
+        "tooltip": "Cabin",
+        "id": 109700,
         "category": "cabin"
       },
       {
@@ -639,7 +708,8 @@
           -601529.25
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID109698)",
+        "tooltip": "Lighthouse",
+        "id": 109698,
         "category": "lighthouse"
       },
       {
@@ -648,7 +718,8 @@
           864008.375
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID109688)",
+        "tooltip": "Lighthouse",
+        "id": 109688,
         "category": "lighthouse"
       },
       {
@@ -657,7 +728,8 @@
           -309002.844
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID109682)",
+        "tooltip": "Lighthouse",
+        "id": 109682,
         "category": "lighthouse"
       },
       {
@@ -666,7 +738,8 @@
           -354565.938
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID109678)",
+        "tooltip": "Lighthouse",
+        "id": 109678,
         "category": "lighthouse"
       },
       {
@@ -675,7 +748,8 @@
           615728.563
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID109676)",
+        "tooltip": "Lighthouse",
+        "id": 109676,
         "category": "lighthouse"
       },
       {
@@ -684,7 +758,8 @@
           -95965.859
         ],
         "icon": "rail",
-        "popup": "Trainyard<br/>DEBUG(ID35494)",
+        "tooltip": "Trainyard",
+        "id": 35494,
         "category": "rail"
       },
       {
@@ -693,7 +768,8 @@
           72069.602
         ],
         "icon": "castleruin",
-        "popup": "Lokve Castle<br/>DEBUG(ID35488)",
+        "tooltip": "Lokve Castle",
+        "id": 35488,
         "category": "castleruin"
       },
       {
@@ -702,7 +778,8 @@
           -44515.223
         ],
         "icon": "castleruin",
-        "popup": "Spickovina Castle<br/>DEBUG(ID35482)",
+        "tooltip": "Spickovina Castle",
+        "id": 35482,
         "category": "castleruin"
       },
       {
@@ -711,7 +788,8 @@
           -217788.734
         ],
         "icon": "military",
-        "popup": "Zargorje Military Camp<br/>DEBUG(ID35476)",
+        "tooltip": "Zargorje Military Camp",
+        "id": 35476,
         "category": "military"
       },
       {
@@ -720,7 +798,8 @@
           -374941.344
         ],
         "icon": "asylum",
-        "popup": "Sanitarium<br/>DEBUG(ID35464)",
+        "tooltip": "Sanitarium",
+        "id": 35464,
         "category": "asylum"
       },
       {
@@ -729,7 +808,8 @@
           118371.227
         ],
         "icon": "police",
-        "popup": "Lokve Police Station<br/>DEBUG(ID35397)",
+        "tooltip": "Lokve Police Station",
+        "id": 35397,
         "category": "police"
       },
       {
@@ -738,7 +818,8 @@
           -488480.5
         ],
         "icon": "airfield",
-        "popup": "Airfield<br/>DEBUG(ID35377)",
+        "tooltip": "Airfield",
+        "id": 35377,
         "category": "airfield"
       },
       {
@@ -747,7 +828,8 @@
           62127.941
         ],
         "icon": "prison",
-        "popup": "Prison<br/>DEBUG(ID35361)",
+        "tooltip": "Prison",
+        "id": 35361,
         "category": "prison"
       },
       {
@@ -756,7 +838,8 @@
           -454249.688
         ],
         "icon": "military",
-        "popup": "Team Bravo Military Camp<br/>DEBUG(ID35344)",
+        "tooltip": "Team Bravo Military Camp",
+        "id": 35344,
         "category": "military"
       },
       {
@@ -765,7 +848,8 @@
           194862.063
         ],
         "icon": "military",
-        "popup": "Golubovek Military Camp<br/>DEBUG(ID35341)",
+        "tooltip": "Golubovek Military Camp",
+        "id": 35341,
         "category": "military"
       },
       {
@@ -774,7 +858,8 @@
           -143619.047
         ],
         "icon": "quarry",
-        "popup": "South Quarry<br/>DEBUG(ID35337)",
+        "tooltip": "South Quarry",
+        "id": 35337,
         "category": "quarry"
       },
       {
@@ -783,7 +868,8 @@
           -140399.844
         ],
         "icon": "quarry",
-        "popup": "North Quarry<br/>DEBUG(ID35335)",
+        "tooltip": "North Quarry",
+        "id": 35335,
         "category": "quarry"
       },
       {
@@ -792,7 +878,8 @@
           219671.188
         ],
         "icon": "shootingrange",
-        "popup": "Shooting Range<br/>DEBUG(ID35326)",
+        "tooltip": "Shooting Range",
+        "id": 35326,
         "category": "shootingrange"
       },
       {
@@ -801,7 +888,8 @@
           260447.938
         ],
         "icon": "airport",
-        "popup": "Airport<br/>DEBUG(ID35324)",
+        "tooltip": "Airport",
+        "id": 35324,
         "category": "airport"
       },
       {
@@ -810,7 +898,8 @@
           -556103.75
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID35293)",
+        "tooltip": "Lighthouse",
+        "id": 35293,
         "category": "lighthouse"
       },
       {
@@ -819,7 +908,8 @@
           -552418.5
         ],
         "icon": "lighthouse",
-        "popup": "Preko Lighthouse<br/>DEBUG(ID35291)",
+        "tooltip": "Preko Lighthouse",
+        "id": 35291,
         "category": "lighthouse"
       },
       {
@@ -828,7 +918,8 @@
           240150.375
         ],
         "icon": "lighthouse",
-        "popup": "Lighthouse<br/>DEBUG(ID35288)",
+        "tooltip": "Lighthouse",
+        "id": 35288,
         "category": "lighthouse"
       },
       {
@@ -837,7 +928,8 @@
           89762.117
         ],
         "icon": "logging",
-        "popup": "Sawmill<br/>DEBUG(ID35269)",
+        "tooltip": "Sawmill",
+        "id": 35269,
         "category": "logging"
       },
       {
@@ -846,7 +938,8 @@
           -254500.281
         ],
         "icon": "military",
-        "popup": "Boot Camp<br/>DEBUG(ID35264)",
+        "tooltip": "Boot Camp",
+        "id": 35264,
         "category": "military"
       },
       {
@@ -855,7 +948,8 @@
           407017.781
         ],
         "icon": "industry",
-        "popup": "Factory<br/>DEBUG(ID35262)",
+        "tooltip": "Factory",
+        "id": 35262,
         "category": "industry"
       },
       {
@@ -864,7 +958,8 @@
           13559.796
         ],
         "icon": "dam",
-        "popup": "Dam<br/>DEBUG(ID35260)",
+        "tooltip": "Dam",
+        "id": 35260,
         "category": "dam"
       },
       {
@@ -873,7 +968,8 @@
           -509651.844
         ],
         "icon": "ferry",
-        "popup": "Naval Base<br/>DEBUG(ID35235)",
+        "tooltip": "Naval Base",
+        "id": 35235,
         "category": "ferry"
       },
       {
@@ -882,7 +978,8 @@
           114152.555
         ],
         "icon": "slaughterhouse",
-        "popup": "Dairy Factory<br/>DEBUG(ID35229)",
+        "tooltip": "Dairy Factory",
+        "id": 35229,
         "category": "slaughterhouse"
       },
       {
@@ -891,7 +988,8 @@
           343751.2488
         ],
         "icon": "aquarium",
-        "popup": "Fish Factory<br/>DEBUG(ID35227)",
+        "tooltip": "Fish Factory",
+        "id": 35227,
         "category": "aquarium"
       },
       {
@@ -900,7 +998,8 @@
           320756.188
         ],
         "icon": "police",
-        "popup": "Gorica Police Station<br/>DEBUG(ID35219)",
+        "tooltip": "Gorica Police Station",
+        "id": 35219,
         "category": "police"
       },
       {
@@ -909,7 +1008,8 @@
           -263938.75
         ],
         "icon": "police",
-        "popup": "Lokve Police Station<br/>DEBUG(ID35217)",
+        "tooltip": "Lokve Police Station",
+        "id": 35217,
         "category": "police"
       },
       {
@@ -918,7 +1018,8 @@
           -263938.75
         ],
         "icon": "police",
-        "popup": "Gorni Humac Police Station<br/>DEBUG(ID35215)",
+        "tooltip": "Gorni Humac Police Station",
+        "id": 35215,
         "category": "police"
       },
       {
@@ -927,7 +1028,8 @@
           -571874.688
         ],
         "icon": "police",
-        "popup": "Ston Police Station<br/>DEBUG(ID35213)",
+        "tooltip": "Ston Police Station",
+        "id": 35213,
         "category": "police"
       },
       {
@@ -936,7 +1038,8 @@
           -577472.125
         ],
         "icon": "police",
-        "popup": "Porat Police Station<br/>DEBUG(ID35211)",
+        "tooltip": "Porat Police Station",
+        "id": 35211,
         "category": "police"
       },
       {
@@ -945,7 +1048,8 @@
           -156377.938
         ],
         "icon": "police",
-        "popup": "Zargorje Police Station<br/>DEBUG(ID35209)",
+        "tooltip": "Zargorje Police Station",
+        "id": 35209,
         "category": "police"
       },
       {
@@ -954,7 +1058,8 @@
           182912.359
         ],
         "icon": "police",
-        "popup": "Vinsku Vrh Police Station<br/>DEBUG(ID35207)",
+        "tooltip": "Vinsku Vrh Police Station",
+        "id": 35207,
         "category": "police"
       },
       {
@@ -963,7 +1068,8 @@
           499467.469
         ],
         "icon": "police",
-        "popup": "Veliki Tabor Police Station<br/>DEBUG(ID35205)",
+        "tooltip": "Veliki Tabor Police Station",
+        "id": 35205,
         "category": "police"
       },
       {
@@ -972,7 +1078,8 @@
           461547.188
         ],
         "icon": "police",
-        "popup": "Prkno Police Station<br/>DEBUG(ID35203)",
+        "tooltip": "Prkno Police Station",
+        "id": 35203,
         "category": "police"
       },
       {
@@ -981,7 +1088,8 @@
           57383.367
         ],
         "icon": "police",
-        "popup": "Spickovina Police Station<br/>DEBUG(ID35201)",
+        "tooltip": "Spickovina Police Station",
+        "id": 35201,
         "category": "police"
       },
       {
@@ -990,7 +1098,8 @@
           -291911.813
         ],
         "icon": "police",
-        "popup": "Mirkovci Police Station<br/>DEBUG(ID35199)",
+        "tooltip": "Mirkovci Police Station",
+        "id": 35199,
         "category": "police"
       },
       {
@@ -999,7 +1108,8 @@
           -494012.938
         ],
         "icon": "police",
-        "popup": "Preko Police Station<br/>DEBUG(ID35197)",
+        "tooltip": "Preko Police Station",
+        "id": 35197,
         "category": "police"
       },
       {
@@ -1008,7 +1118,8 @@
           -337797.344
         ],
         "icon": "police",
-        "popup": "Blato Police Station<br/>DEBUG(ID35195)",
+        "tooltip": "Blato Police Station",
+        "id": 35195,
         "category": "police"
       },
       {
@@ -1017,7 +1128,8 @@
           -192390.063
         ],
         "icon": "police",
-        "popup": "Zaton Police Station<br/>DEBUG(ID35193)",
+        "tooltip": "Zaton Police Station",
+        "id": 35193,
         "category": "police"
       },
       {
@@ -1026,13 +1138,14 @@
           32816.77
         ],
         "icon": "police",
-        "popup": "Tisno Police Station<br/>DEBUG(ID35191)",
+        "tooltip": "Tisno Police Station",
+        "id": 35191,
         "category": "police"
       }
     ]
   },
   "rowboat": {
-    "name": "船隻",
+    "name": "rowboat",
     "markers": [
       {
         "position": [
@@ -1040,7 +1153,8 @@
           778131.313
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109848)",
+        "tooltip": "Boat Spawn",
+        "id": 109848,
         "category": "rowboat"
       },
       {
@@ -1049,7 +1163,8 @@
           538969.688
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109846)",
+        "tooltip": "Boat Spawn",
+        "id": 109846,
         "category": "rowboat"
       },
       {
@@ -1058,7 +1173,8 @@
           -270570.625
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109844)",
+        "tooltip": "Boat Spawn",
+        "id": 109844,
         "category": "rowboat"
       },
       {
@@ -1067,7 +1183,8 @@
           -491054.5
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109840)",
+        "tooltip": "Boat Spawn",
+        "id": 109840,
         "category": "rowboat"
       },
       {
@@ -1076,7 +1193,8 @@
           -302169.063
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109838)",
+        "tooltip": "Boat Spawn",
+        "id": 109838,
         "category": "rowboat"
       },
       {
@@ -1085,7 +1203,8 @@
           -156551.156
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109832)",
+        "tooltip": "Boat Spawn",
+        "id": 109832,
         "category": "rowboat"
       },
       {
@@ -1094,7 +1213,8 @@
           384363.719
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109826)",
+        "tooltip": "Boat Spawn",
+        "id": 109826,
         "category": "rowboat"
       },
       {
@@ -1103,7 +1223,8 @@
           452055.813
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109824)",
+        "tooltip": "Boat Spawn",
+        "id": 109824,
         "category": "rowboat"
       },
       {
@@ -1112,7 +1233,8 @@
           -553451.375
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109818)",
+        "tooltip": "Boat Spawn",
+        "id": 109818,
         "category": "rowboat"
       },
       {
@@ -1121,7 +1243,8 @@
           -447253.375
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109816)",
+        "tooltip": "Boat Spawn",
+        "id": 109816,
         "category": "rowboat"
       },
       {
@@ -1130,7 +1253,8 @@
           125490.781
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109814)",
+        "tooltip": "Boat Spawn",
+        "id": 109814,
         "category": "rowboat"
       },
       {
@@ -1139,7 +1263,8 @@
           355053.5
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109812)",
+        "tooltip": "Boat Spawn",
+        "id": 109812,
         "category": "rowboat"
       },
       {
@@ -1148,7 +1273,8 @@
           654800.125
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109810)",
+        "tooltip": "Boat Spawn",
+        "id": 109810,
         "category": "rowboat"
       },
       {
@@ -1157,7 +1283,8 @@
           -579305.063
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109802)",
+        "tooltip": "Boat Spawn",
+        "id": 109802,
         "category": "rowboat"
       },
       {
@@ -1166,7 +1293,8 @@
           -579305.063
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109800)",
+        "tooltip": "Boat Spawn",
+        "id": 109800,
         "category": "rowboat"
       },
       {
@@ -1175,7 +1303,8 @@
           -596527.75
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109798)",
+        "tooltip": "Boat Spawn",
+        "id": 109798,
         "category": "rowboat"
       },
       {
@@ -1184,7 +1313,8 @@
           36347.672
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109796)",
+        "tooltip": "Boat Spawn",
+        "id": 109796,
         "category": "rowboat"
       },
       {
@@ -1193,7 +1323,8 @@
           -512037.875
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109794)",
+        "tooltip": "Boat Spawn",
+        "id": 109794,
         "category": "rowboat"
       },
       {
@@ -1202,7 +1333,8 @@
           -472793.813
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109792)",
+        "tooltip": "Boat Spawn",
+        "id": 109792,
         "category": "rowboat"
       },
       {
@@ -1211,7 +1343,8 @@
           -567236
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109790)",
+        "tooltip": "Boat Spawn",
+        "id": 109790,
         "category": "rowboat"
       },
       {
@@ -1220,7 +1353,8 @@
           207326.422
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109750)",
+        "tooltip": "Boat Spawn",
+        "id": 109750,
         "category": "rowboat"
       },
       {
@@ -1229,7 +1363,8 @@
           -157170.906
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109742)",
+        "tooltip": "Boat Spawn",
+        "id": 109742,
         "category": "rowboat"
       },
       {
@@ -1238,7 +1373,8 @@
           863299.563
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109724)",
+        "tooltip": "Boat Spawn",
+        "id": 109724,
         "category": "rowboat"
       },
       {
@@ -1247,13 +1383,14 @@
           411603.938
         ],
         "icon": "rowboat",
-        "popup": "Boat Spawn<br/>DEBUG(ID109714)",
+        "tooltip": "Boat Spawn",
+        "id": 109714,
         "category": "rowboat"
       }
     ]
   },
   "ww2bunker": {
-    "name": "二戰碉堡",
+    "name": "ww2bunker",
     "markers": [
       {
         "position": [
@@ -1261,7 +1398,8 @@
           -66057.992
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID109834)",
+        "tooltip": "WW2 Bunker",
+        "id": 109834,
         "category": "ww2bunker"
       },
       {
@@ -1270,7 +1408,8 @@
           861471
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID109696)",
+        "tooltip": "WW2 Bunker",
+        "id": 109696,
         "category": "ww2bunker"
       },
       {
@@ -1279,7 +1418,8 @@
           773841.625
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID109694)",
+        "tooltip": "WW2 Bunker",
+        "id": 109694,
         "category": "ww2bunker"
       },
       {
@@ -1288,7 +1428,8 @@
           129985.344
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35496)",
+        "tooltip": "WW2 Bunker",
+        "id": 35496,
         "category": "ww2bunker"
       },
       {
@@ -1297,7 +1438,8 @@
           -366330.469
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35375)",
+        "tooltip": "WW2 Bunker",
+        "id": 35375,
         "category": "ww2bunker"
       },
       {
@@ -1306,7 +1448,8 @@
           -570919.688
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35069)",
+        "tooltip": "WW2 Bunker",
+        "id": 35069,
         "category": "ww2bunker"
       },
       {
@@ -1315,7 +1458,8 @@
           -409588.25
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35066)",
+        "tooltip": "WW2 Bunker",
+        "id": 35066,
         "category": "ww2bunker"
       },
       {
@@ -1324,7 +1468,8 @@
           -546663
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35064)",
+        "tooltip": "WW2 Bunker",
+        "id": 35064,
         "category": "ww2bunker"
       },
       {
@@ -1333,7 +1478,8 @@
           -577449.563
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35062)",
+        "tooltip": "WW2 Bunker",
+        "id": 35062,
         "category": "ww2bunker"
       },
       {
@@ -1342,7 +1488,8 @@
           -221503.609
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35060)",
+        "tooltip": "WW2 Bunker",
+        "id": 35060,
         "category": "ww2bunker"
       },
       {
@@ -1351,7 +1498,8 @@
           -31342.922
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35058)",
+        "tooltip": "WW2 Bunker",
+        "id": 35058,
         "category": "ww2bunker"
       },
       {
@@ -1360,7 +1508,8 @@
           32372.607
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35056)",
+        "tooltip": "WW2 Bunker",
+        "id": 35056,
         "category": "ww2bunker"
       },
       {
@@ -1369,7 +1518,8 @@
           234933.422
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35054)",
+        "tooltip": "WW2 Bunker",
+        "id": 35054,
         "category": "ww2bunker"
       },
       {
@@ -1378,7 +1528,8 @@
           583841.813
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35052)",
+        "tooltip": "WW2 Bunker",
+        "id": 35052,
         "category": "ww2bunker"
       },
       {
@@ -1387,7 +1538,8 @@
           444970.719
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35050)",
+        "tooltip": "WW2 Bunker",
+        "id": 35050,
         "category": "ww2bunker"
       },
       {
@@ -1396,7 +1548,8 @@
           -355741.5
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35048)",
+        "tooltip": "WW2 Bunker",
+        "id": 35048,
         "category": "ww2bunker"
       },
       {
@@ -1405,7 +1558,8 @@
           -589874.813
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35046)",
+        "tooltip": "WW2 Bunker",
+        "id": 35046,
         "category": "ww2bunker"
       },
       {
@@ -1414,7 +1568,8 @@
           -304332.5
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35044)",
+        "tooltip": "WW2 Bunker",
+        "id": 35044,
         "category": "ww2bunker"
       },
       {
@@ -1423,7 +1578,8 @@
           -205496
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35042)",
+        "tooltip": "WW2 Bunker",
+        "id": 35042,
         "category": "ww2bunker"
       },
       {
@@ -1432,7 +1588,8 @@
           -113520.992
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35040)",
+        "tooltip": "WW2 Bunker",
+        "id": 35040,
         "category": "ww2bunker"
       },
       {
@@ -1441,7 +1598,8 @@
           28478.49
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35038)",
+        "tooltip": "WW2 Bunker",
+        "id": 35038,
         "category": "ww2bunker"
       },
       {
@@ -1450,7 +1608,8 @@
           208488.266
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35036)",
+        "tooltip": "WW2 Bunker",
+        "id": 35036,
         "category": "ww2bunker"
       },
       {
@@ -1459,7 +1618,8 @@
           335917.594
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35034)",
+        "tooltip": "WW2 Bunker",
+        "id": 35034,
         "category": "ww2bunker"
       },
       {
@@ -1468,7 +1628,8 @@
           -555610.5
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35032)",
+        "tooltip": "WW2 Bunker",
+        "id": 35032,
         "category": "ww2bunker"
       },
       {
@@ -1477,7 +1638,8 @@
           -537885.875
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35030)",
+        "tooltip": "WW2 Bunker",
+        "id": 35030,
         "category": "ww2bunker"
       },
       {
@@ -1486,7 +1648,8 @@
           -431577.969
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35028)",
+        "tooltip": "WW2 Bunker",
+        "id": 35028,
         "category": "ww2bunker"
       },
       {
@@ -1495,7 +1658,8 @@
           -139478.516
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35026)",
+        "tooltip": "WW2 Bunker",
+        "id": 35026,
         "category": "ww2bunker"
       },
       {
@@ -1504,7 +1668,8 @@
           -50984.23
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35024)",
+        "tooltip": "WW2 Bunker",
+        "id": 35024,
         "category": "ww2bunker"
       },
       {
@@ -1513,7 +1678,8 @@
           -223813.109
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35022)",
+        "tooltip": "WW2 Bunker",
+        "id": 35022,
         "category": "ww2bunker"
       },
       {
@@ -1522,7 +1688,8 @@
           155967.375
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35020)",
+        "tooltip": "WW2 Bunker",
+        "id": 35020,
         "category": "ww2bunker"
       },
       {
@@ -1531,7 +1698,8 @@
           155967.375
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35018)",
+        "tooltip": "WW2 Bunker",
+        "id": 35018,
         "category": "ww2bunker"
       },
       {
@@ -1540,7 +1708,8 @@
           268535.188
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35016)",
+        "tooltip": "WW2 Bunker",
+        "id": 35016,
         "category": "ww2bunker"
       },
       {
@@ -1549,7 +1718,8 @@
           471227.781
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35014)",
+        "tooltip": "WW2 Bunker",
+        "id": 35014,
         "category": "ww2bunker"
       },
       {
@@ -1558,7 +1728,8 @@
           583959.875
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35012)",
+        "tooltip": "WW2 Bunker",
+        "id": 35012,
         "category": "ww2bunker"
       },
       {
@@ -1567,13 +1738,14 @@
           505964.875
         ],
         "icon": "ww2bunker",
-        "popup": "WW2 Bunker<br/>DEBUG(ID35009)",
+        "tooltip": "WW2 Bunker",
+        "id": 35009,
         "category": "ww2bunker"
       }
     ]
   },
-  "bunker": {
-    "name": "地堡",
+  "t1bunker": {
+    "name": "t1bunker",
     "markers": [
       {
         "position": [
@@ -1581,7 +1753,8 @@
           -30798.205
         ],
         "icon": "t1bunker",
-        "popup": "TECH01 Bunker<br/>DEBUG(ID109830)",
+        "tooltip": "TECH01 Bunker",
+        "id": 109830,
         "category": "t1bunker"
       },
       {
@@ -1590,7 +1763,8 @@
           201901.453
         ],
         "icon": "t1bunker",
-        "popup": "TECH01 Bunker<br/>DEBUG(ID109804)",
+        "tooltip": "TECH01 Bunker",
+        "id": 109804,
         "category": "t1bunker"
       },
       {
@@ -1599,7 +1773,8 @@
           769554.438
         ],
         "icon": "t1bunker",
-        "popup": "TECH 01 Bunker<br/>DEBUG(ID109692)",
+        "tooltip": "TECH 01 Bunker",
+        "id": 109692,
         "category": "t1bunker"
       },
       {
@@ -1608,7 +1783,8 @@
           808189.938
         ],
         "icon": "t1bunker",
-        "popup": "TECH 01 Bunker<br/>DEBUG(ID109690)",
+        "tooltip": "TECH 01 Bunker",
+        "id": 109690,
         "category": "t1bunker"
       },
       {
@@ -1617,7 +1793,8 @@
           569955.75
         ],
         "icon": "t1bunker",
-        "popup": "TECH 01 Bunker<br/>DEBUG(ID109684)",
+        "tooltip": "TECH 01 Bunker",
+        "id": 109684,
         "category": "t1bunker"
       },
       {
@@ -1626,7 +1803,8 @@
           -521864.313
         ],
         "icon": "t1bunker",
-        "popup": "TECH 01 Bunker<br/>DEBUG(ID109680)",
+        "tooltip": "TECH 01 Bunker",
+        "id": 109680,
         "category": "t1bunker"
       },
       {
@@ -1635,7 +1813,8 @@
           870063.938
         ],
         "icon": "t1bunker",
-        "popup": "TECH01 Bunker<br/>DEBUG(ID109630)",
+        "tooltip": "TECH01 Bunker",
+        "id": 109630,
         "category": "t1bunker"
       },
       {
@@ -1644,7 +1823,8 @@
           871795.813
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID109618)",
+        "tooltip": "TEC01 Bunker",
+        "id": 109618,
         "category": "t1bunker"
       },
       {
@@ -1653,7 +1833,8 @@
           -406131.125
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35186)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35186,
         "category": "t1bunker"
       },
       {
@@ -1662,7 +1843,8 @@
           -142122.172
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35184)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35184,
         "category": "t1bunker"
       },
       {
@@ -1671,7 +1853,8 @@
           243110.328
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35182)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35182,
         "category": "t1bunker"
       },
       {
@@ -1680,7 +1863,8 @@
           539119.063
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35180)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35180,
         "category": "t1bunker"
       },
       {
@@ -1689,7 +1873,8 @@
           -447952.719
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35178)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35178,
         "category": "t1bunker"
       },
       {
@@ -1698,7 +1883,8 @@
           -193595.016
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35176)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35176,
         "category": "t1bunker"
       },
       {
@@ -1707,7 +1893,8 @@
           223115.219
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35174)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35174,
         "category": "t1bunker"
       },
       {
@@ -1716,7 +1903,8 @@
           392554.75
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35172)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35172,
         "category": "t1bunker"
       },
       {
@@ -1725,7 +1913,8 @@
           -444385.375
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35169)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35169,
         "category": "t1bunker"
       },
       {
@@ -1734,7 +1923,8 @@
           -238822.391
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35167)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35167,
         "category": "t1bunker"
       },
       {
@@ -1743,7 +1933,8 @@
           42301.059
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35165)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35165,
         "category": "t1bunker"
       },
       {
@@ -1752,7 +1943,8 @@
           586045.188
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35163)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35163,
         "category": "t1bunker"
       },
       {
@@ -1761,7 +1953,8 @@
           -449964.536
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35161)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35161,
         "category": "t1bunker"
       },
       {
@@ -1770,7 +1963,8 @@
           -228734.031
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35159)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35159,
         "category": "t1bunker"
       },
       {
@@ -1779,7 +1973,8 @@
           42439.297
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35157)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35157,
         "category": "t1bunker"
       },
       {
@@ -1788,13 +1983,14 @@
           346661.313
         ],
         "icon": "t1bunker",
-        "popup": "TEC01 Bunker<br/>DEBUG(ID35155)",
+        "tooltip": "TEC01 Bunker",
+        "id": 35155,
         "category": "t1bunker"
       }
     ]
   },
   "cave": {
-    "name": "洞窟",
+    "name": "cave",
     "markers": [
       {
         "position": [
@@ -1802,7 +1998,8 @@
           -357543.844
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109740)",
+        "tooltip": "Underwater Cave",
+        "id": 109740,
         "category": "uwcave"
       },
       {
@@ -1811,7 +2008,8 @@
           -475612.25
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109738)",
+        "tooltip": "Underwater Cave",
+        "id": 109738,
         "category": "uwcave"
       },
       {
@@ -1820,7 +2018,8 @@
           -536832.875
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109736)",
+        "tooltip": "Underwater Cave",
+        "id": 109736,
         "category": "uwcave"
       },
       {
@@ -1829,7 +2028,8 @@
           -604206.063
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109734)",
+        "tooltip": "Underwater Cave",
+        "id": 109734,
         "category": "uwcave"
       },
       {
@@ -1838,7 +2038,8 @@
           -592102.813
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109732)",
+        "tooltip": "Underwater Cave",
+        "id": 109732,
         "category": "uwcave"
       },
       {
@@ -1847,7 +2048,8 @@
           -578071.5
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109730)",
+        "tooltip": "Underwater Cave",
+        "id": 109730,
         "category": "uwcave"
       },
       {
@@ -1856,7 +2058,8 @@
           -608678.125
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109728)",
+        "tooltip": "Underwater Cave",
+        "id": 109728,
         "category": "uwcave"
       },
       {
@@ -1865,7 +2068,8 @@
           -586793.938
         ],
         "icon": "uwcave",
-        "popup": "Underwater Cave<br/>DEBUG(ID109726)",
+        "tooltip": "Underwater Cave",
+        "id": 109726,
         "category": "uwcave"
       },
       {
@@ -1874,7 +2078,8 @@
           -502978.0312
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109674)",
+        "tooltip": "Cave",
+        "id": 109674,
         "category": "cave"
       },
       {
@@ -1883,7 +2088,8 @@
           -573045.25
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109672)",
+        "tooltip": "Cave",
+        "id": 109672,
         "category": "cave"
       },
       {
@@ -1892,7 +2098,8 @@
           -446284.25
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109670)",
+        "tooltip": "Cave",
+        "id": 109670,
         "category": "cave"
       },
       {
@@ -1901,7 +2108,8 @@
           -253682.2812
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109668)",
+        "tooltip": "Cave",
+        "id": 109668,
         "category": "cave"
       },
       {
@@ -1910,7 +2118,8 @@
           -291166.7812
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109666)",
+        "tooltip": "Cave",
+        "id": 109666,
         "category": "cave"
       },
       {
@@ -1919,7 +2128,8 @@
           -22861.6445
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109664)",
+        "tooltip": "Cave",
+        "id": 109664,
         "category": "cave"
       },
       {
@@ -1928,7 +2138,8 @@
           16447.1211
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109662)",
+        "tooltip": "Cave",
+        "id": 109662,
         "category": "cave"
       },
       {
@@ -1937,7 +2148,8 @@
           273152.5938
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109660)",
+        "tooltip": "Cave",
+        "id": 109660,
         "category": "cave"
       },
       {
@@ -1946,7 +2158,8 @@
           307568.3125
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109658)",
+        "tooltip": "Cave",
+        "id": 109658,
         "category": "cave"
       },
       {
@@ -1955,7 +2168,8 @@
           403073.9375
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109656)",
+        "tooltip": "Cave",
+        "id": 109656,
         "category": "cave"
       },
       {
@@ -1964,7 +2178,8 @@
           475557.7188
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109654)",
+        "tooltip": "Cave",
+        "id": 109654,
         "category": "cave"
       },
       {
@@ -1973,7 +2188,8 @@
           546068.5625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109652)",
+        "tooltip": "Cave",
+        "id": 109652,
         "category": "cave"
       },
       {
@@ -1982,7 +2198,8 @@
           593172.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109650)",
+        "tooltip": "Cave",
+        "id": 109650,
         "category": "cave"
       },
       {
@@ -1991,7 +2208,8 @@
           729032.875
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109648)",
+        "tooltip": "Cave",
+        "id": 109648,
         "category": "cave"
       },
       {
@@ -2000,7 +2218,8 @@
           871960.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109646)",
+        "tooltip": "Cave",
+        "id": 109646,
         "category": "cave"
       },
       {
@@ -2009,7 +2228,8 @@
           726414.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109644)",
+        "tooltip": "Cave",
+        "id": 109644,
         "category": "cave"
       },
       {
@@ -2018,7 +2238,8 @@
           783116
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109642)",
+        "tooltip": "Cave",
+        "id": 109642,
         "category": "cave"
       },
       {
@@ -2027,7 +2248,8 @@
           889599.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109640)",
+        "tooltip": "Cave",
+        "id": 109640,
         "category": "cave"
       },
       {
@@ -2036,7 +2258,8 @@
           819973.375
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109638)",
+        "tooltip": "Cave",
+        "id": 109638,
         "category": "cave"
       },
       {
@@ -2045,7 +2268,8 @@
           606691.9375
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109636)",
+        "tooltip": "Cave",
+        "id": 109636,
         "category": "cave"
       },
       {
@@ -2054,7 +2278,8 @@
           883747.125
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109634)",
+        "tooltip": "Cave",
+        "id": 109634,
         "category": "cave"
       },
       {
@@ -2063,7 +2288,8 @@
           735916.0625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109632)",
+        "tooltip": "Cave",
+        "id": 109632,
         "category": "cave"
       },
       {
@@ -2072,7 +2298,8 @@
           616888.4375
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109628)",
+        "tooltip": "Cave",
+        "id": 109628,
         "category": "cave"
       },
       {
@@ -2081,7 +2308,8 @@
           807794.5625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109626)",
+        "tooltip": "Cave",
+        "id": 109626,
         "category": "cave"
       },
       {
@@ -2090,7 +2318,8 @@
           793247.25
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109624)",
+        "tooltip": "Cave",
+        "id": 109624,
         "category": "cave"
       },
       {
@@ -2099,7 +2328,8 @@
           762759.4375
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109622)",
+        "tooltip": "Cave",
+        "id": 109622,
         "category": "cave"
       },
       {
@@ -2108,7 +2338,8 @@
           705799.5625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID109620)",
+        "tooltip": "Cave",
+        "id": 109620,
         "category": "cave"
       },
       {
@@ -2117,7 +2348,8 @@
           -491729.219
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35148)",
+        "tooltip": "Cave",
+        "id": 35148,
         "category": "cave"
       },
       {
@@ -2126,7 +2358,8 @@
           -249155.813
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35146)",
+        "tooltip": "Cave",
+        "id": 35146,
         "category": "cave"
       },
       {
@@ -2135,7 +2368,8 @@
           174625.709
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35144)",
+        "tooltip": "Cave",
+        "id": 35144,
         "category": "cave"
       },
       {
@@ -2144,7 +2378,8 @@
           409096.0663
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35142)",
+        "tooltip": "Cave",
+        "id": 35142,
         "category": "cave"
       },
       {
@@ -2153,7 +2388,8 @@
           -343884.875
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35140)",
+        "tooltip": "Cave",
+        "id": 35140,
         "category": "cave"
       },
       {
@@ -2162,7 +2398,8 @@
           -198777.953
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35138)",
+        "tooltip": "Cave",
+        "id": 35138,
         "category": "cave"
       },
       {
@@ -2171,7 +2408,8 @@
           -115739.297
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35136)",
+        "tooltip": "Cave",
+        "id": 35136,
         "category": "cave"
       },
       {
@@ -2180,7 +2418,8 @@
           -27573.619
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35134)",
+        "tooltip": "Cave",
+        "id": 35134,
         "category": "cave"
       },
       {
@@ -2189,7 +2428,8 @@
           -11405.81
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35132)",
+        "tooltip": "Cave",
+        "id": 35132,
         "category": "cave"
       },
       {
@@ -2198,7 +2438,8 @@
           -1472.85
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35130)",
+        "tooltip": "Cave",
+        "id": 35130,
         "category": "cave"
       },
       {
@@ -2207,7 +2448,8 @@
           121105.266
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35128)",
+        "tooltip": "Cave",
+        "id": 35128,
         "category": "cave"
       },
       {
@@ -2216,7 +2458,8 @@
           354461.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35126)",
+        "tooltip": "Cave",
+        "id": 35126,
         "category": "cave"
       },
       {
@@ -2225,7 +2468,8 @@
           537172
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35124)",
+        "tooltip": "Cave",
+        "id": 35124,
         "category": "cave"
       },
       {
@@ -2234,7 +2478,8 @@
           -429494.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35122)",
+        "tooltip": "Cave",
+        "id": 35122,
         "category": "cave"
       },
       {
@@ -2243,7 +2488,8 @@
           -242938.859
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35120)",
+        "tooltip": "Cave",
+        "id": 35120,
         "category": "cave"
       },
       {
@@ -2252,7 +2498,8 @@
           -158135.688
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35118)",
+        "tooltip": "Cave",
+        "id": 35118,
         "category": "cave"
       },
       {
@@ -2261,7 +2508,8 @@
           -46511.348
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35116)",
+        "tooltip": "Cave",
+        "id": 35116,
         "category": "cave"
       },
       {
@@ -2270,7 +2518,8 @@
           62517.867
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35114)",
+        "tooltip": "Cave",
+        "id": 35114,
         "category": "cave"
       },
       {
@@ -2279,7 +2528,8 @@
           248316.953
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35112)",
+        "tooltip": "Cave",
+        "id": 35112,
         "category": "cave"
       },
       {
@@ -2288,7 +2538,8 @@
           350581.219
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35110)",
+        "tooltip": "Cave",
+        "id": 35110,
         "category": "cave"
       },
       {
@@ -2297,7 +2548,8 @@
           526367.063
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35108)",
+        "tooltip": "Cave",
+        "id": 35108,
         "category": "cave"
       },
       {
@@ -2306,7 +2558,8 @@
           572051.625
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35106)",
+        "tooltip": "Cave",
+        "id": 35106,
         "category": "cave"
       },
       {
@@ -2315,7 +2568,8 @@
           -297353
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35104)",
+        "tooltip": "Cave",
+        "id": 35104,
         "category": "cave"
       },
       {
@@ -2324,7 +2578,8 @@
           80354
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35102)",
+        "tooltip": "Cave",
+        "id": 35102,
         "category": "cave"
       },
       {
@@ -2333,7 +2588,8 @@
           554333
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35100)",
+        "tooltip": "Cave",
+        "id": 35100,
         "category": "cave"
       },
       {
@@ -2342,13 +2598,14 @@
           567702.125
         ],
         "icon": "cave",
-        "popup": "Cave<br/>DEBUG(ID35098)",
+        "tooltip": "Cave",
+        "id": 35098,
         "category": "cave"
       }
     ]
   },
   "town": {
-    "name": "城鎮",
+    "name": "town",
     "markers": [
       {
         "position": [
@@ -2356,7 +2613,8 @@
           871156.75
         ],
         "icon": "town",
-        "popup": "Vrsar<br/>DEBUG(ID109686)",
+        "tooltip": "Vrsar",
+        "id": 109686,
         "category": "town"
       },
       {
@@ -2365,7 +2623,8 @@
           533454.5455
         ],
         "icon": "town",
-        "popup": "Prigorje<br/>DEBUG(ID35404)",
+        "tooltip": "Prigorje",
+        "id": 35404,
         "category": "town"
       },
       {
@@ -2374,7 +2633,8 @@
           320756.188
         ],
         "icon": "town",
-        "popup": "Gorica<br/>DEBUG(ID35399)",
+        "tooltip": "Gorica",
+        "id": 35399,
         "category": "town"
       },
       {
@@ -2383,7 +2643,8 @@
           -270498.688
         ],
         "icon": "town",
-        "popup": "Gorni Humac<br/>DEBUG(ID35388)",
+        "tooltip": "Gorni Humac",
+        "id": 35388,
         "category": "town"
       },
       {
@@ -2392,7 +2653,8 @@
           -581643.938
         ],
         "icon": "town",
-        "popup": "Porat<br/>DEBUG(ID35373)",
+        "tooltip": "Porat",
+        "id": 35373,
         "category": "town"
       },
       {
@@ -2401,7 +2663,8 @@
           -542262.101
         ],
         "icon": "town",
-        "popup": "Klis<br/>DEBUG(ID35369)",
+        "tooltip": "Klis",
+        "id": 35369,
         "category": "town"
       },
       {
@@ -2410,7 +2673,8 @@
           -468245.406
         ],
         "icon": "town",
-        "popup": "Rude<br/>DEBUG(ID35366)",
+        "tooltip": "Rude",
+        "id": 35366,
         "category": "town"
       },
       {
@@ -2419,7 +2683,8 @@
           -500852.5
         ],
         "icon": "town",
-        "popup": "Ugljan<br/>DEBUG(ID35354)",
+        "tooltip": "Ugljan",
+        "id": 35354,
         "category": "town"
       },
       {
@@ -2428,7 +2693,8 @@
           -489447.094
         ],
         "icon": "town",
-        "popup": "Preko<br/>DEBUG(ID35351)",
+        "tooltip": "Preko",
+        "id": 35351,
         "category": "town"
       },
       {
@@ -2437,7 +2703,8 @@
           -292734.344
         ],
         "icon": "town",
-        "popup": "Mirkovci<br/>DEBUG(ID35347)",
+        "tooltip": "Mirkovci",
+        "id": 35347,
         "category": "town"
       },
       {
@@ -2446,7 +2713,8 @@
           54899.813
         ],
         "icon": "town",
-        "popup": "Spickovina<br/>DEBUG(ID35333)",
+        "tooltip": "Spickovina",
+        "id": 35333,
         "category": "town"
       },
       {
@@ -2455,7 +2723,8 @@
           468150.844
         ],
         "icon": "town",
-        "popup": "Prkno<br/>DEBUG(ID35318)",
+        "tooltip": "Prkno",
+        "id": 35318,
         "category": "town"
       },
       {
@@ -2464,7 +2733,8 @@
           -333440.094
         ],
         "icon": "town",
-        "popup": "Blato<br/>DEBUG(ID35309)",
+        "tooltip": "Blato",
+        "id": 35309,
         "category": "town"
       },
       {
@@ -2473,7 +2743,8 @@
           -199406.188
         ],
         "icon": "town",
-        "popup": "Zaton<br/>DEBUG(ID35300)",
+        "tooltip": "Zaton",
+        "id": 35300,
         "category": "town"
       },
       {
@@ -2482,13 +2753,14 @@
           35874.133
         ],
         "icon": "town",
-        "popup": "Tisno<br/>DEBUG(ID35282)",
+        "tooltip": "Tisno",
+        "id": 35282,
         "category": "town"
       }
     ]
   },
   "village": {
-    "name": "村莊",
+    "name": "village",
     "markers": [
       {
         "position": [
@@ -2496,7 +2768,8 @@
           -70337.063
         ],
         "icon": "village",
-        "popup": "Blace<br/>DEBUG(ID35479)",
+        "tooltip": "Blace",
+        "id": 35479,
         "category": "village"
       },
       {
@@ -2505,7 +2778,8 @@
           -180295.875
         ],
         "icon": "village",
-        "popup": "Marof<br/>DEBUG(ID35473)",
+        "tooltip": "Marof",
+        "id": 35473,
         "category": "village"
       },
       {
@@ -2514,7 +2788,8 @@
           28675.941
         ],
         "icon": "village",
-        "popup": "Babino Polje<br/>DEBUG(ID35395)",
+        "tooltip": "Babino Polje",
+        "id": 35395,
         "category": "village"
       },
       {
@@ -2523,7 +2798,8 @@
           -19059.279
         ],
         "icon": "village",
-        "popup": "Kotoriba<br/>DEBUG(ID35392)",
+        "tooltip": "Kotoriba",
+        "id": 35392,
         "category": "village"
       },
       {
@@ -2532,7 +2808,8 @@
           -84202.242
         ],
         "icon": "village",
-        "popup": "Novaki<br/>DEBUG(ID35390)",
+        "tooltip": "Novaki",
+        "id": 35390,
         "category": "village"
       },
       {
@@ -2541,7 +2818,8 @@
           -356359.031
         ],
         "icon": "village",
-        "popup": "Novi Glog<br/>DEBUG(ID35384)",
+        "tooltip": "Novi Glog",
+        "id": 35384,
         "category": "village"
       },
       {
@@ -2550,7 +2828,8 @@
           -166932.563
         ],
         "icon": "village",
-        "popup": "Dubrava<br/>DEBUG(ID35382)",
+        "tooltip": "Dubrava",
+        "id": 35382,
         "category": "village"
       },
       {
@@ -2559,7 +2838,8 @@
           -558898.188
         ],
         "icon": "village",
-        "popup": "Trilj<br/>DEBUG(ID35380)",
+        "tooltip": "Trilj",
+        "id": 35380,
         "category": "village"
       },
       {
@@ -2568,7 +2848,8 @@
           -360846.063
         ],
         "icon": "village",
-        "popup": "Lobor<br/>DEBUG(ID35371)",
+        "tooltip": "Lobor",
+        "id": 35371,
         "category": "village"
       },
       {
@@ -2577,7 +2858,8 @@
           -356764.781
         ],
         "icon": "village",
-        "popup": "Jelsa<br/>DEBUG(ID35358)",
+        "tooltip": "Jelsa",
+        "id": 35358,
         "category": "village"
       },
       {
@@ -2586,7 +2868,8 @@
           -412419.5
         ],
         "icon": "village",
-        "popup": "Brela<br/>DEBUG(ID35356)",
+        "tooltip": "Brela",
+        "id": 35356,
         "category": "village"
       },
       {
@@ -2595,7 +2878,8 @@
           -401913.375
         ],
         "icon": "village",
-        "popup": "Punat<br/>DEBUG(ID35349)",
+        "tooltip": "Punat",
+        "id": 35349,
         "category": "village"
       },
       {
@@ -2604,7 +2888,8 @@
           23055.652
         ],
         "icon": "village",
-        "popup": "Postira<br/>DEBUG(ID35330)",
+        "tooltip": "Postira",
+        "id": 35330,
         "category": "village"
       },
       {
@@ -2613,7 +2898,8 @@
           111610.414
         ],
         "icon": "village",
-        "popup": "Golubovek<br/>DEBUG(ID35328)",
+        "tooltip": "Golubovek",
+        "id": 35328,
         "category": "village"
       },
       {
@@ -2622,7 +2908,8 @@
           363849.188
         ],
         "icon": "village",
-        "popup": "Trpanj<br/>DEBUG(ID35313)",
+        "tooltip": "Trpanj",
+        "id": 35313,
         "category": "village"
       },
       {
@@ -2631,7 +2918,8 @@
           427587.906
         ],
         "icon": "village",
-        "popup": "Turanj<br/>DEBUG(ID35311)",
+        "tooltip": "Turanj",
+        "id": 35311,
         "category": "village"
       },
       {
@@ -2640,7 +2928,8 @@
           -336985.4036
         ],
         "icon": "village",
-        "popup": "Kampor<br/>DEBUG(ID35307)",
+        "tooltip": "Kampor",
+        "id": 35307,
         "category": "village"
       },
       {
@@ -2649,7 +2938,8 @@
           -139444.656
         ],
         "icon": "village",
-        "popup": "Drvenik<br/>DEBUG(ID35298)",
+        "tooltip": "Drvenik",
+        "id": 35298,
         "category": "village"
       },
       {
@@ -2658,7 +2948,8 @@
           -18671.2714
         ],
         "icon": "village",
-        "popup": "Hum<br/>DEBUG(ID35296)",
+        "tooltip": "Hum",
+        "id": 35296,
         "category": "village"
       },
       {
@@ -2667,7 +2958,8 @@
           44894.078
         ],
         "icon": "village",
-        "popup": "Tijat<br/>DEBUG(ID35280)",
+        "tooltip": "Tijat",
+        "id": 35280,
         "category": "village"
       },
       {
@@ -2676,7 +2968,8 @@
           170983.2741
         ],
         "icon": "village",
-        "popup": "Zmajan<br/>DEBUG(ID35278)",
+        "tooltip": "Zmajan",
+        "id": 35278,
         "category": "village"
       },
       {
@@ -2685,7 +2978,8 @@
           217010.5468
         ],
         "icon": "village",
-        "popup": "Prigradica<br/>DEBUG(ID35275)",
+        "tooltip": "Prigradica",
+        "id": 35275,
         "category": "village"
       },
       {
@@ -2694,7 +2988,8 @@
           494223.438
         ],
         "icon": "village",
-        "popup": "Apitija<br/>DEBUG(ID35272)",
+        "tooltip": "Apitija",
+        "id": 35272,
         "category": "village"
       }
     ]
