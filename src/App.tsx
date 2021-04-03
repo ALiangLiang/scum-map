@@ -1,6 +1,6 @@
 import React from 'react';
 import L from 'leaflet';
-import { MapContainer, TileLayer, LayersControl, LayerGroup, Marker, Popup } from 'react-leaflet'
+import { MapContainer, ImageOverlay, LayersControl, LayerGroup, Marker, Tooltip } from 'react-leaflet'
 import parse from 'html-react-parser'
 import './App.css';
 import 'leaflet/dist/leaflet.css';
@@ -29,8 +29,8 @@ function App() {
   })
 
   const bounds: L.LatLngBounds = L.latLngBounds(
-    L.latLng(-0, 0),
-    L.latLng(-1200000, 1200000)
+    L.latLng(620000, 900000),
+    L.latLng(-900000, -620000)
   )
 
   const overlays = Object.entries(markers).map((entry: [string, any]) => {
@@ -42,15 +42,16 @@ function App() {
       const markerIcon = marker.icon
       const icon = L.icon({
         iconUrl: `assets/Markers%20Icons/${markerIcon}.png`,
-        iconSize: [42, 42],
-        iconAnchor: [21, 42],
+        iconSize: [20, 20],
+        iconAnchor: [10, 10],
+        popupAnchor: [-3, -76]
       })
 
       return (
         <Marker position={marker.position} icon={icon}>
-          <Popup>
+          <Tooltip className="globalmarker">
             {parse(marker.popup)}
-          </Popup>
+          </Tooltip>
         </Marker>
       )
     })
@@ -68,16 +69,15 @@ function App() {
     <div className="App">
       <MapContainer
         className="map"
-        center={[-597949.21875, 600146.484375]}
-        zoom={2}
-        crs={crs}
+        center={[0, 0]}
+        zoom={-10}
+        minZoom={-11}
+        crs={L.CRS.Simple}
+        renderer={L.svg()}
       >
-        <TileLayer
-          url="./map/{z}/{x}/{y}.png"
-          minZoom={1}
-          maxZoom={5}
+        <ImageOverlay
+          url="./scummap.jpg"
           bounds={bounds}
-          noWrap={true}
         />
         <LayersControl
           position="topright"

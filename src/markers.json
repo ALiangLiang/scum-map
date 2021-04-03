@@ -1,2451 +1,2516 @@
 {
-  "bunker": {
-    "name": "地堡",
+  "fuel": {
+    "name": "fuel",
     "markers": [
       {
         "position": [
-          "-1066406.25",
-          "952148.4375"
+          -675711.313,
+          641385.75
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – A1</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID109888)"
       },
       {
         "position": [
-          "-929882.8125",
-          "648632.8125"
+          -270161.438,
+          740223.313
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – A2</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 27/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID109886)"
       },
       {
         "position": [
-          "-1050585.9375",
-          "380859.375"
+          155123.672,
+          829062.813
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – A3</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID109882)"
       },
       {
         "position": [
-          "-1007812.5",
-          "166406.25"
+          -758087.5,
+          -101537.961
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – A4</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID109862)"
       },
       {
         "position": [
-          "-864257.8125",
-          "1184765.625"
+          148785.813,
+          -192639.984
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – B1</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35363)"
       },
       {
         "position": [
-          "-801562.5",
-          "648632.8125"
+          -481655.406,
+          -20799.324
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – B2</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35284)"
       },
       {
         "position": [
-          "-695214.84375",
-          "373828.125"
+          307604,
+          506379.125
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – B3</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35258)"
       },
       {
         "position": [
-          "-618750",
-          "167578.125"
+          559347.25,
+          406547.406
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – B4</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35256)"
       },
       {
         "position": [
-          "-391992.1875",
-          "996093.75"
+          471229,
+          -116912.977
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – C1</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35254)"
       },
       {
         "position": [
-          "-421289.0625",
-          "824414.0625"
+          333312.781,
+          -283822.063
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – C2</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35252)"
       },
       {
         "position": [
-          "-318164.0625",
-          "424218.75"
+          -107337.664,
+          411307.813
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – C3</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35250)"
       },
       {
         "position": [
-          "-349218.75",
-          "171679.6875"
+          -67754.789,
+          112386.82
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – C4</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35248)"
       },
       {
         "position": [
-          "-75585.9375",
-          "1135107.421875"
+          -255827.875,
+          -250502.766
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – D1</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35246)"
       },
       {
         "position": [
-          "-48632.8125",
-          "847851.5625"
+          -168956.422,
+          -503154.031
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – D2</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35244)"
       },
       {
         "position": [
-          "-67382.8125",
-          "467578.125"
+          -484617.406,
+          48661.738
         ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – D3</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
-      },
-      {
-        "position": [
-          "-61523.4375",
-          "211523.4375"
-        ],
-        "icon": "mi_bunker",
-        "popup": "<b>Bunker – D4</b><br>Type: Bunker<br>One of the many bunkers on SCUM island. Guarded by mechs.<br><br><b>Loot:</b><br>-Lot of weapons, ammunitions, weapon modifications<br>-Lot of military clothing and equipment<br>-Many padlocks<br>-Some food<br>-Some crafting materials<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "fuelIcon",
+        "popup": "Gas Station<br/>DEBUG(ID35242)"
       }
     ]
   },
-  "poi": {
-    "name": "地標",
+  "car": {
+    "name": "car",
     "markers": [
       {
         "position": [
-          "-969140.625",
-          "948632.8125"
+          153290.531,
+          829034.313
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>The fish factory</b><br>Type: Industrial<br>Medium sized industrial POI<br><br><b>Loot:</b><br>-Many food<br>-Some crafting and work related items and ressources<br>-Few weapons or ammo in the sentry box<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109884)"
       },
       {
         "position": [
-          "-957421.875",
-          "468164.0625"
+          -838616.313,
+          -51150.242
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Quarry (south)</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109876)"
       },
       {
         "position": [
-          "-893554.6875",
-          "474609.375"
+          412489.25,
+          -302385.25
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Quarry (north)</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109854)"
       },
       {
         "position": [
-          "-1150195.3125",
-          "116015.625"
+          -1075.031,
+          -42230.688
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Naval base</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109852)"
       },
       {
         "position": [
-          "-1101855.46875",
-          "672656.25"
+          294838.5,
+          -367663.25
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Port of Tisno</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109850)"
       },
       {
         "position": [
-          "-616406.25",
-          "1006640.625"
+          -653269.313,
+          -353173
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Factory</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109842)"
       },
       {
         "position": [
-          "-641015.625",
-          "861328.125"
+          -763424.625,
+          -152769.625
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Airfield</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109828)"
       },
       {
         "position": [
-          "-717773.4375",
-          "823828.125"
+          -409661.563,
+          -553843.375
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Gun range</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109822)"
       },
       {
         "position": [
-          "-768164.0625",
-          "517968.75"
+          -687323.75,
+          148881.813
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Trainyard</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109820)"
       },
       {
         "position": [
-          "-642773.4375",
-          "365625"
+          -825216.188,
+          206465.094
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Bootcamp</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109806)"
       },
       {
         "position": [
-          "-418359.375",
-          "932812.5"
+          -847499.125,
+          864522.125
         ],
-        "icon": "mi_poi_scientific",
-        "popup": "<b>Observatory</b><br>Type: Scientific<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109788)"
       },
       {
         "position": [
-          "-461718.75",
-          "673242.1875"
+          -465871.031,
+          41867.195
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Prison</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109786)"
       },
       {
         "position": [
-          "-356835.9375",
-          "619921.875"
+          -404317.125,
+          177271.375
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Dam</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109784)"
       },
       {
         "position": [
-          "-564257.8125",
-          "394335.9375"
+          -422020.438,
+          494948.938
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Army tents</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109782)"
       },
       {
         "position": [
-          "-520312.5",
-          "376757.8125"
+          -496806,
+          242659.875
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Trenches</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109780)"
       },
       {
         "position": [
-          "-318164.0625",
-          "242578.125"
+          296965.563,
+          546855.813
         ],
-        "icon": "mi_poi_scientific",
-        "popup": "<b>Sanitarium</b><br>Type: Scientific<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109778)"
       },
       {
         "position": [
-          "-36914.0625",
-          "127148.4375"
+          399734.25,
+          542377.938
         ],
-        "icon": "mi_poi_military",
-        "popup": "<b>Air Force base</b><br>Type: Military<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109776)"
       },
       {
         "position": [
-          "-124218.75",
-          "697265.625"
+          562450.75,
+          328299.813
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Sawmill</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109774)"
       },
       {
         "position": [
-          "-190429.6875",
-          "1061132.8125"
+          -25131.406,
+          561177.25
         ],
-        "icon": "mi_poi_industrial",
-        "popup": "<b>Coal mine</b><br>Type: Industrial<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109772)"
       },
       {
         "position": [
-          "-6005.859375",
-          "1085302.734375"
+          409805.188,
+          -169054.531
         ],
-        "icon": "mi_poi_mystery",
-        "popup": "<b>K̸̫͕͚̝͂͛̀̄é̶̪̲͖̏̐́e̷̹̜͎̋͠p̷̛̖ ̸̱̦̜̈̂́̚O̴̭̻̤͋u̶̳̠͋t̴̘̄̈́</b><br>Type: Unknown<br>M̶̠͕̈̓a̷̖̺̮̲̓͊̆k̷̺̔̈́͑̀e̷͇͆̏͐ ̶̨̾͗̋ḭ̵̡̣̜̈t̷̫̒ͅ ̶̪͊͝s̴̢̢̳̞̍̈́t̵͕̰̱̺͋͗̋o̷̤͚͆̈p̶̨̘͐̅̐̀ ̷̣̳̙̲͐͂̆͌!̸͓̏<br><br><b>Loot:</b><br>P̵̑͜A̵͎͙͆́͝Ĩ̶̥͓̝̟͛̿Ǹ̴̳̖̀̈́͘ ̷̤̈P̷̧̀̉̈́͜A̸̡̗̮̬͆̀İ̷͔̗N̷͙̯̈́͜ ̵̹̳̤͆̃͠P̴̻͒͋͝A̵̹̓̍̐Ĭ̶̫̹̾̋N̶̪̪̾̄̏͘<br><br><sub>Last update: 02/02/21</sub>"
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109770)"
+      },
+      {
+        "position": [
+          343532.969,
+          -215546.203
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109768)"
+      },
+      {
+        "position": [
+          -114349,
+          -57324.813
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109766)"
+      },
+      {
+        "position": [
+          588254.75,
+          168439.266
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109764)"
+      },
+      {
+        "position": [
+          -90469.375,
+          62962.086
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109762)"
+      },
+      {
+        "position": [
+          500809.813,
+          92756.938
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109760)"
+      },
+      {
+        "position": [
+          -295971.375,
+          -149301.375
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109758)"
+      },
+      {
+        "position": [
+          416833.844,
+          460015.125
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109756)"
+      },
+      {
+        "position": [
+          340247.5,
+          105946.375
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109754)"
+      },
+      {
+        "position": [
+          -851694.313,
+          -14679.118
+        ],
+        "icon": "carIcon",
+        "popup": "Car Spawn<br/>DEBUG(ID109744)"
       }
     ]
   },
-  "village": {
-    "name": "村莊",
+  "windt": {
+    "name": "windt",
     "markers": [
       {
         "position": [
-          "-1022753.90625",
-          "1095117.1875"
+          -851839.313,
+          -13223.723
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Apitija</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109880)"
       },
       {
         "position": [
-          "-1008105.46875",
-          "824121.09375"
+          -847287.375,
+          -30670.043
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Prigradica</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109878)"
       },
       {
         "position": [
-          "-1018066.40625",
-          "776660.15625"
+          -837756.375,
+          -53052.492
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Zmajan</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109874)"
       },
       {
         "position": [
-          "-956542.96875",
-          "592089.84375"
+          -831848.313,
+          -72749.07
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Hum</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109872)"
       },
       {
         "position": [
-          "-1085449.21875",
-          "278027.34375"
+          -822630.125,
+          -90935.188
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Kampor</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109870)"
       },
       {
         "position": [
-          "-803320.3125",
-          "959765.625"
+          -816713.063,
+          -111917.344
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Trpanj</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109868)"
       },
       {
         "position": [
-          "-885351.5625",
-          "1033886.71875"
+          -811549.688,
+          -133116.719
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Turanj</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109866)"
       },
       {
         "position": [
-          "-894726.5625",
-          "588867.1875"
+          -809792.563,
+          -153164.25
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Postira</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109864)"
       },
       {
         "position": [
-          "-726562.5",
-          "120117.1875"
+          -825140.813,
+          207725.859
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Ugljan</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109808)"
       },
       {
         "position": [
-          "-843164.0625",
-          "210058.59375"
+          -825296.25,
+          156902.656
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Punat</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109748)"
       },
       {
         "position": [
-          "-532910.15625",
-          "540820.3125"
+          -823665.688,
+          179601.469
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Blace</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "windtIcon",
+        "popup": "Wind Turbine<br/>DEBUG(ID109746)"
+      }
+    ]
+  },
+  "watchtower": {
+    "name": "watchtower",
+    "markers": [
+      {
+        "position": [
+          560105.188,
+          355272.563
+        ],
+        "icon": "watchtowerIcon",
+        "popup": "Watch Tower<br/>DEBUG(ID109860)"
       },
       {
         "position": [
-          "-451171.875",
-          "469628.90625"
+          551569.188,
+          564078.5
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Dol</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "watchtowerIcon",
+        "popup": "Watch Tower<br/>DEBUG(ID109858)"
       },
       {
         "position": [
-          "-379980.46875",
-          "433886.71875"
+          292914.625,
+          142944.828
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Marof</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "watchtowerIcon",
+        "popup": "Watch Tower<br/>DEBUG(ID109722)"
       },
       {
         "position": [
-          "-486914.0625",
-          "146777.34375"
+          115033.492,
+          225820.453
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Rude</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "watchtowerIcon",
+        "popup": "Watch Tower<br/>DEBUG(ID109718)"
       },
       {
         "position": [
-          "-529101.5625",
-          "181640.625"
+          57428.031,
+          58372.371
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Rupcaga</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "watchtowerIcon",
+        "popup": "Watch Tower<br/>DEBUG(ID109712)"
+      }
+    ]
+  },
+  "rowboat": {
+    "name": "rowboat",
+    "markers": [
+      {
+        "position": [
+          579490.813,
+          778131.313
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109848)"
       },
       {
         "position": [
-          "-523535.15625",
-          "73828.125"
+          -660632.25,
+          538969.688
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Klis</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109846)"
       },
       {
         "position": [
-          "-140185.546875",
-          "1132763.671875"
+          -707428.688,
+          -270570.625
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Prigorje</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109844)"
       },
       {
         "position": [
-          "-171679.6875",
-          "666503.90625"
+          -868137.375,
+          -491054.5
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Gunja</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109840)"
       },
       {
         "position": [
-          "-86425.78125",
-          "634570.3125"
+          -802370.938,
+          -302169.063
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Babino Polje</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109838)"
       },
       {
         "position": [
-          "-21093.75",
-          "588574.21875"
+          -669258.875,
+          -156551.156
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Kotoriba</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109832)"
       },
       {
         "position": [
-          "-133007.8125",
-          "526757.8125"
+          -594745.375,
+          384363.719
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Novakj</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109826)"
       },
       {
         "position": [
-          "-207128.90625",
-          "444433.59375"
+          -700922.125,
+          452055.813
         ],
-        "icon": "mi_poi_village",
-        "popup": "<b>Dubrava</b><br>Type: Village<br>Villages are usually small. Mostly houses and/or farm buildings. Sometimes a few garages.<br><br><b>Loot:</b><br>-Food.<br>-Basic crafting materials<br>-Tools.<br>-Backpacks.<br>-Clothes.<br>-sometime bows/crossbows.<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109824)"
+      },
+      {
+        "position": [
+          -393702.75,
+          -553451.375
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109818)"
+      },
+      {
+        "position": [
+          -152818.938,
+          -447253.375
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109816)"
+      },
+      {
+        "position": [
+          -559623.813,
+          125490.781
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109814)"
+      },
+      {
+        "position": [
+          -492464.813,
+          355053.5
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109812)"
+      },
+      {
+        "position": [
+          -7199.75,
+          654800.125
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109810)"
+      },
+      {
+        "position": [
+          426883.188,
+          -579305.063
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109802)"
+      },
+      {
+        "position": [
+          426883.188,
+          -579305.063
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109800)"
+      },
+      {
+        "position": [
+          550121.5,
+          -596527.75
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109798)"
+      },
+      {
+        "position": [
+          265908.875,
+          36347.672
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109796)"
+      },
+      {
+        "position": [
+          -561878.813,
+          -512037.875
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109794)"
+      },
+      {
+        "position": [
+          -459547.813,
+          -472793.813
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109792)"
+      },
+      {
+        "position": [
+          -671134.625,
+          -567236
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109790)"
+      },
+      {
+        "position": [
+          227276.75,
+          207326.422
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109750)"
+      },
+      {
+        "position": [
+          -846462.375,
+          -157170.906
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109742)"
+      },
+      {
+        "position": [
+          -718843.188,
+          863299.563
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109724)"
+      },
+      {
+        "position": [
+          137531.672,
+          411603.938
+        ],
+        "icon": "rowboatIcon",
+        "popup": "Boat Spawn<br/>DEBUG(ID109714)"
+      }
+    ]
+  },
+  "t1mech": {
+    "name": "t1mech",
+    "markers": [
+      {
+        "position": [
+          -677734.375,
+          426050.313
+        ],
+        "icon": "t1mechIcon",
+        "popup": "TECH01 Weapons Factory<br/>DEBUG(ID109836)"
+      }
+    ]
+  },
+  "ww2bunker": {
+    "name": "ww2bunker",
+    "markers": [
+      {
+        "position": [
+          -699886.688,
+          -66057.992
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID109834)"
+      },
+      {
+        "position": [
+          243043.844,
+          861471
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID109696)"
+      },
+      {
+        "position": [
+          -353700.563,
+          773841.625
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID109694)"
+      },
+      {
+        "position": [
+          -560823.313,
+          129985.344
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35496)"
+      },
+      {
+        "position": [
+          395524.031,
+          -366330.469
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35375)"
+      },
+      {
+        "position": [
+          478178.75,
+          -570919.688
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35069)"
+      },
+      {
+        "position": [
+          605232.25,
+          -409588.25
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35066)"
+      },
+      {
+        "position": [
+          271027.156,
+          -546663
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35064)"
+      },
+      {
+        "position": [
+          114733.766,
+          -577449.563
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35062)"
+      },
+      {
+        "position": [
+          263887.281,
+          -221503.609
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35060)"
+      },
+      {
+        "position": [
+          197999.141,
+          -31342.922
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35058)"
+      },
+      {
+        "position": [
+          71673.945,
+          32372.607
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35056)"
+      },
+      {
+        "position": [
+          93860.539,
+          234933.422
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35054)"
+      },
+      {
+        "position": [
+          306295.031,
+          583841.813
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35052)"
+      },
+      {
+        "position": [
+          297609.906,
+          444970.719
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35050)"
+      },
+      {
+        "position": [
+          -21871.012,
+          -355741.5
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35048)"
+      },
+      {
+        "position": [
+          -128496.57,
+          -589874.813
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35046)"
+      },
+      {
+        "position": [
+          -37649.969,
+          -304332.5
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35044)"
+      },
+      {
+        "position": [
+          -213978.156,
+          -205496
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35042)"
+      },
+      {
+        "position": [
+          -254855.922,
+          -113520.992
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35040)"
+      },
+      {
+        "position": [
+          -220890.922,
+          28478.49
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35038)"
+      },
+      {
+        "position": [
+          -230301.594,
+          208488.266
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35036)"
+      },
+      {
+        "position": [
+          -269740.5,
+          335917.594
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35034)"
+      },
+      {
+        "position": [
+          -310825.406,
+          -555610.5
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35032)"
+      },
+      {
+        "position": [
+          -455069.844,
+          -537885.875
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35030)"
+      },
+      {
+        "position": [
+          -572131.938,
+          -431577.969
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35028)"
+      },
+      {
+        "position": [
+          -500259.156,
+          -139478.516
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35026)"
+      },
+      {
+        "position": [
+          -551857.375,
+          -50984.23
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35024)"
+      },
+      {
+        "position": [
+          -566640.938,
+          -223813.109
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35022)"
+      },
+      {
+        "position": [
+          -456104,
+          155967.375
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35020)"
+      },
+      {
+        "position": [
+          -456104,
+          155967.375
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35018)"
+      },
+      {
+        "position": [
+          -514548.5,
+          268535.188
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35016)"
+      },
+      {
+        "position": [
+          -330426.563,
+          471227.781
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35014)"
+      },
+      {
+        "position": [
+          -502572.563,
+          583959.875
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35012)"
+      },
+      {
+        "position": [
+          -542769.313,
+          505964.875
+        ],
+        "icon": "ww2bunkerIcon",
+        "popup": "WW2 Bunker<br/>DEBUG(ID35009)"
+      }
+    ]
+  },
+  "t1bunker": {
+    "name": "t1bunker",
+    "markers": [
+      {
+        "position": [
+          -807061.75,
+          -30798.205
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH01 Bunker<br/>DEBUG(ID109830)"
+      },
+      {
+        "position": [
+          -645737.125,
+          201901.453
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH01 Bunker<br/>DEBUG(ID109804)"
+      },
+      {
+        "position": [
+          -349826.969,
+          769554.438
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH 01 Bunker<br/>DEBUG(ID109692)"
+      },
+      {
+        "position": [
+          -89741.18,
+          808189.938
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH 01 Bunker<br/>DEBUG(ID109690)"
+      },
+      {
+        "position": [
+          -722693.938,
+          569955.75
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH 01 Bunker<br/>DEBUG(ID109684)"
+      },
+      {
+        "position": [
+          -823563,
+          -521864.313
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH 01 Bunker<br/>DEBUG(ID109680)"
+      },
+      {
+        "position": [
+          179736.094,
+          870063.938
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TECH01 Bunker<br/>DEBUG(ID109630)"
+      },
+      {
+        "position": [
+          596925.688,
+          871795.813
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID109618)"
+      },
+      {
+        "position": [
+          556963.688,
+          -406131.125
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35186)"
+      },
+      {
+        "position": [
+          546014.938,
+          -142122.172
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35184)"
+      },
+      {
+        "position": [
+          569686.75,
+          243110.328
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35182)"
+      },
+      {
+        "position": [
+          539414.313,
+          539119.063
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35180)"
+      },
+      {
+        "position": [
+          263894.813,
+          -447952.719
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35178)"
+      },
+      {
+        "position": [
+          291551.438,
+          -193595.016
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35176)"
+      },
+      {
+        "position": [
+          186815.734,
+          223115.219
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35174)"
+      },
+      {
+        "position": [
+          219183.078,
+          392554.75
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35172)"
+      },
+      {
+        "position": [
+          -13693.246,
+          -444385.375
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35169)"
+      },
+      {
+        "position": [
+          -94011.547,
+          -238822.391
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35167)"
+      },
+      {
+        "position": [
+          -196632.922,
+          42301.059
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35165)"
+      },
+      {
+        "position": [
+          -262563.906,
+          586045.188
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35163)"
+      },
+      {
+        "position": [
+          -400187.063,
+          -449964.536
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35161)"
+      },
+      {
+        "position": [
+          -447141.344,
+          -228734.031
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35159)"
+      },
+      {
+        "position": [
+          -324834.031,
+          42439.297
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35157)"
+      },
+      {
+        "position": [
+          -467017.469,
+          346661.313
+        ],
+        "icon": "t1bunkerIcon",
+        "popup": "TEC01 Bunker<br/>DEBUG(ID35155)"
+      }
+    ]
+  },
+  "uwcave": {
+    "name": "uwcave",
+    "markers": [
+      {
+        "position": [
+          -569903.875,
+          -357543.844
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109740)"
+      },
+      {
+        "position": [
+          -442841.781,
+          -475612.25
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109738)"
+      },
+      {
+        "position": [
+          -460710.656,
+          -536832.875
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109736)"
+      },
+      {
+        "position": [
+          -255742.484,
+          -604206.063
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109734)"
+      },
+      {
+        "position": [
+          -136267.719,
+          -592102.813
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109732)"
+      },
+      {
+        "position": [
+          248352.469,
+          -578071.5
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109730)"
+      },
+      {
+        "position": [
+          320927.813,
+          -608678.125
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109728)"
+      },
+      {
+        "position": [
+          562187.625,
+          -586793.938
+        ],
+        "icon": "uwcaveIcon",
+        "popup": "Underwater Cave<br/>DEBUG(ID109726)"
+      }
+    ]
+  },
+  "church": {
+    "name": "church",
+    "markers": [
+      {
+        "position": [
+          289417.281,
+          150242.781
+        ],
+        "icon": "churchIcon",
+        "popup": "Lokve Church<br/>DEBUG(ID109720)"
+      },
+      {
+        "position": [
+          -182210.406,
+          -271409.813
+        ],
+        "icon": "churchIcon",
+        "popup": "Mirkovci Church<br/>DEBUG(ID109708)"
+      },
+      {
+        "position": [
+          125362.805,
+          -488860.625
+        ],
+        "icon": "churchIcon",
+        "popup": "Rude Church<br/>DEBUG(ID109706)"
+      }
+    ]
+  },
+  "cabin": {
+    "name": "cabin",
+    "markers": [
+      {
+        "position": [
+          109482.07,
+          385969.531
+        ],
+        "icon": "cabinIcon",
+        "popup": "Cabin<br/>DEBUG(ID109716)"
+      },
+      {
+        "position": [
+          -37886.984,
+          -2489.14
+        ],
+        "icon": "cabinIcon",
+        "popup": "Cabin<br/>DEBUG(ID109710)"
+      },
+      {
+        "position": [
+          -198987.594,
+          -175176.563
+        ],
+        "icon": "cabinIcon",
+        "popup": "Cabin<br/>DEBUG(ID109704)"
+      },
+      {
+        "position": [
+          532266.875,
+          -57908.32
+        ],
+        "icon": "cabinIcon",
+        "popup": "Cabin<br/>DEBUG(ID109702)"
+      },
+      {
+        "position": [
+          581086.563,
+          -74379.781
+        ],
+        "icon": "cabinIcon",
+        "popup": "Cabin<br/>DEBUG(ID109700)"
+      }
+    ]
+  },
+  "lighthouse": {
+    "name": "lighthouse",
+    "markers": [
+      {
+        "position": [
+          -677384.25,
+          -601529.25
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID109698)"
+      },
+      {
+        "position": [
+          -727796.813,
+          864008.375
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID109688)"
+      },
+      {
+        "position": [
+          -876597.188,
+          -309002.844
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID109682)"
+      },
+      {
+        "position": [
+          -652782.438,
+          -354565.938
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID109678)"
+      },
+      {
+        "position": [
+          -553359.375,
+          615728.563
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID109676)"
+      },
+      {
+        "position": [
+          -408372.688,
+          -556103.75
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID35293)"
+      },
+      {
+        "position": [
+          -156672.297,
+          -552418.5
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Preko Lighthouse<br/>DEBUG(ID35291)"
+      },
+      {
+        "position": [
+          -495675.469,
+          240150.375
+        ],
+        "icon": "lighthouseIcon",
+        "popup": "Lighthouse<br/>DEBUG(ID35288)"
       }
     ]
   },
   "town": {
-    "name": "城鎮",
+    "name": "town",
     "markers": [
       {
         "position": [
-          "-1087500",
-          "639257.8125"
+          -848266.625,
+          871156.75
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Tisno</b><br>Type: Town<br>Towns <br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Vrsar<br/>DEBUG(ID109686)"
       },
       {
         "position": [
-          "-1117382.8125",
-          "415722.65625"
+          478122.6263,
+          533454.5455
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Zaton</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Prigorje<br/>DEBUG(ID35404)"
       },
       {
         "position": [
-          "-975878.90625",
-          "280664.0625"
+          561343.5,
+          320756.188
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Blato</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Gorica<br/>DEBUG(ID35399)"
       },
       {
         "position": [
-          "-715136.71875",
-          "1065234.375"
+          510851.719,
+          -270498.688
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Prkno</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Gorni Humac<br/>DEBUG(ID35388)"
       },
       {
         "position": [
-          "-693164.0625",
-          "665478.515625"
+          261623.859,
+          -581643.938
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Spickovina</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Porat<br/>DEBUG(ID35373)"
       },
       {
         "position": [
-          "-785156.25",
-          "326953.125"
+          84537.586,
+          -542262.101
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Mirkovci</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Klis<br/>DEBUG(ID35369)"
       },
       {
         "position": [
-          "-790429.6875",
-          "123339.84375"
+          123497.234,
+          -468245.406
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Preko</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Rude<br/>DEBUG(ID35366)"
       },
       {
         "position": [
-          "-420410.15625",
-          "1096582.03125"
+          -123321.828,
+          -500852.5
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Veliki Tabor</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Ugljan<br/>DEBUG(ID35354)"
       },
       {
         "position": [
-          "-532177.734375",
-          "792187.5"
+          -177569.25,
+          -489447.094
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Vinsku Vrh</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Preko<br/>DEBUG(ID35351)"
       },
       {
         "position": [
-          "-572753.90625",
-          "447949.21875"
+          -171284.031,
+          -292734.344
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Zargorje</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Mirkovci<br/>DEBUG(ID35347)"
       },
       {
         "position": [
-          "-378808.59375",
-          "50390.625"
+          -79804.547,
+          54899.813
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Porat</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Spickovina<br/>DEBUG(ID35333)"
       },
       {
         "position": [
-          "-50097.65625",
-          "925488.28125"
+          -104833.781,
+          468150.844
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Gorica</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Prkno<br/>DEBUG(ID35318)"
       },
       {
         "position": [
-          "-268066.40625",
-          "723339.84375"
+          -367662.469,
+          -333440.094
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Lovke</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Blato<br/>DEBUG(ID35309)"
       },
       {
         "position": [
-          "-106347.65625",
-          "345410.15625"
+          -511985.188,
+          -199406.188
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Gorni Humac</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Zaton<br/>DEBUG(ID35300)"
       },
       {
         "position": [
-          "-276269.53125",
-          "42773.4375"
+          -478597.781,
+          35874.133
         ],
-        "icon": "mi_poi_town",
-        "popup": "<b>Ston</b><br>Type: Town<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "townIcon",
+        "popup": "Tisno<br/>DEBUG(ID35282)"
       }
     ]
   },
-  "city": {
-    "name": "城市",
+  "cave": {
+    "name": "cave",
     "markers": [
       {
         "position": [
-          "-258984.375",
-          "295312.5"
+          -702123.9375,
+          -502978.0312
         ],
-        "icon": "mi_poi_city",
-        "popup": "<b>Samobor</b><br>Type: City<br>Placeholder text<br><br><b>Loot:</b><br>Placeholder text<br><br><sub>Last update: 22/01/21</sub>"
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109674)"
+      },
+      {
+        "position": [
+          -789053.75,
+          -573045.25
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109672)"
+      },
+      {
+        "position": [
+          -877226.375,
+          -446284.25
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109670)"
+      },
+      {
+        "position": [
+          -702163.6875,
+          -253682.2812
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109668)"
+      },
+      {
+        "position": [
+          -805024.6875,
+          -291166.7812
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109666)"
+      },
+      {
+        "position": [
+          -879553.75,
+          -22861.6445
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109664)"
+      },
+      {
+        "position": [
+          -884423.375,
+          16447.1211
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109662)"
+      },
+      {
+        "position": [
+          -645845.6875,
+          273152.5938
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109660)"
+      },
+      {
+        "position": [
+          -816063.25,
+          307568.3125
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109658)"
+      },
+      {
+        "position": [
+          -882392.375,
+          403073.9375
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109656)"
+      },
+      {
+        "position": [
+          -864870.5625,
+          475557.7188
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109654)"
+      },
+      {
+        "position": [
+          -657279.6875,
+          546068.5625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109652)"
+      },
+      {
+        "position": [
+          -809488.875,
+          593172.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109650)"
+      },
+      {
+        "position": [
+          -869715.8125,
+          729032.875
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109648)"
+      },
+      {
+        "position": [
+          -722949.75,
+          871960.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109646)"
+      },
+      {
+        "position": [
+          -614243.3125,
+          726414.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109644)"
+      },
+      {
+        "position": [
+          -497718,
+          783116
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109642)"
+      },
+      {
+        "position": [
+          -459260.4375,
+          889599.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109640)"
+      },
+      {
+        "position": [
+          -385779.875,
+          819973.375
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109638)"
+      },
+      {
+        "position": [
+          -291904.7812,
+          606691.9375
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109636)"
+      },
+      {
+        "position": [
+          -149508.4531,
+          883747.125
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109634)"
+      },
+      {
+        "position": [
+          -158676.0469,
+          735916.0625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109632)"
+      },
+      {
+        "position": [
+          63041.1914,
+          616888.4375
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109628)"
+      },
+      {
+        "position": [
+          288089.6875,
+          807794.5625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109626)"
+      },
+      {
+        "position": [
+          393806.4063,
+          793247.25
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109624)"
+      },
+      {
+        "position": [
+          486255.1875,
+          762759.4375
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109622)"
+      },
+      {
+        "position": [
+          605162.75,
+          705799.5625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID109620)"
+      },
+      {
+        "position": [
+          465445.219,
+          -491729.219
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35148)"
+      },
+      {
+        "position": [
+          568895.063,
+          -249155.813
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35146)"
+      },
+      {
+        "position": [
+          548206.625,
+          174625.709
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35144)"
+      },
+      {
+        "position": [
+          390044.625,
+          409096.0663
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35142)"
+      },
+      {
+        "position": [
+          299719.219,
+          -343884.875
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35140)"
+      },
+      {
+        "position": [
+          75344.156,
+          -198777.953
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35138)"
+      },
+      {
+        "position": [
+          159389.141,
+          -115739.297
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35136)"
+      },
+      {
+        "position": [
+          31037.979,
+          -27573.619
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35134)"
+      },
+      {
+        "position": [
+          104644.656,
+          -11405.81
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35132)"
+      },
+      {
+        "position": [
+          175341.25,
+          -1472.85
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35130)"
+      },
+      {
+        "position": [
+          85158.234,
+          121105.266
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35128)"
+      },
+      {
+        "position": [
+          168620.594,
+          354461.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35126)"
+      },
+      {
+        "position": [
+          188361,
+          537172
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35124)"
+      },
+      {
+        "position": [
+          -118036.984,
+          -429494.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35122)"
+      },
+      {
+        "position": [
+          -116087.594,
+          -242938.859
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35120)"
+      },
+      {
+        "position": [
+          -238622.172,
+          -158135.688
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35118)"
+      },
+      {
+        "position": [
+          -51369.258,
+          -46511.348
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35116)"
+      },
+      {
+        "position": [
+          8124.91,
+          62517.867
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35114)"
+      },
+      {
+        "position": [
+          -155590.141,
+          248316.953
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35112)"
+      },
+      {
+        "position": [
+          -42046.891,
+          350581.219
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35110)"
+      },
+      {
+        "position": [
+          -147498.922,
+          526367.063
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35108)"
+      },
+      {
+        "position": [
+          -80847.031,
+          572051.625
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35106)"
+      },
+      {
+        "position": [
+          -332479.438,
+          -297353
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35104)"
+      },
+      {
+        "position": [
+          -381249.125,
+          80354
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35102)"
+      },
+      {
+        "position": [
+          -382761.906,
+          554333
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35100)"
+      },
+      {
+        "position": [
+          -458600.469,
+          567702.125
+        ],
+        "icon": "caveIcon",
+        "popup": "Cave<br/>DEBUG(ID35098)"
       }
     ]
   },
-  "shipwreck": {
-    "name": "沈船",
+  "rail": {
+    "name": "rail",
     "markers": [
       {
         "position": [
-          "-1138769.53125",
-          "842871.09375"
+          -159945.469,
+          -95965.859
         ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck A2-a</b><br>Type: Cargo ship<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-1163671.875",
-          "454980.46875"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck A3-a</b><br>Type: Tugboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-1197363.28125",
-          "313183.59375"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck A3-b</b><br>Type: Tugboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-1176123.046875",
-          "185595.703125"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck A4-a</b><br>Type: Rowboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-1018066.40625",
-          "21972.65625"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck A4-b</b><br>Type: Tugboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-869677.734375",
-          "52441.40625"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck B4-a</b><br>Type: Cargo ship<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-683642.578125",
-          "44238.28125"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck B4-b</b><br>Type: TO DEFINE<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-546093.75",
-          "15820.3125"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck C4-a</b><br>Type: Tugboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-401953.125",
-          "14062.5"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck C4-b</b><br>Type: Rowboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-316552.734375",
-          "12011.71875"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck C4-c</b><br>Type: Cargo ship<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
-      },
-      {
-        "position": [
-          "-229541.015625",
-          "39697.265625"
-        ],
-        "icon": "mi_shipwreck",
-        "popup": "<b>Shipwreck D4</b><br>Type: Rowboat<br><br><br><b>Loot:</b><br><br><br><sub>Last update: 27/01/21</sub>"
+        "icon": "railIcon",
+        "popup": "Trainyard<br/>DEBUG(ID35494)"
       }
     ]
   },
-  "ressource_work": {
-    "name": "工作台",
+  "castleruin": {
+    "name": "castleruin",
     "markers": [
       {
         "position": [
-          "-1021142.578125",
-          "1094531.25"
+          346389.875,
+          72069.602
         ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 3 workbenches in Apitija.<br><br><sub>Last update: 11/02/21</sub>"
+        "icon": "castleruinIcon",
+        "popup": "Lokve Castle<br/>DEBUG(ID35488)"
       },
       {
         "position": [
-          "-1005468.75",
-          "825585.9375"
+          5393.556,
+          -44515.223
         ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Prigradica.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1013818.359375",
-          "775634.765625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Zmajan.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-998876.953125",
-          "734765.625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1065087.890625",
-          "649658.203125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1092041.015625",
-          "648925.78125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 6 workbenches in Tisno.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1052490.234375",
-          "358593.75"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-978808.59375",
-          "280078.125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 4 workbenches in Blato.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1147412.109375",
-          "94482.421875"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 2 workbenches in Naval base.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-720263.671875",
-          "1066113.28125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Prkno.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-606591.796875",
-          "1005908.203125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Factory.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-641308.59375",
-          "879345.703125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-650244.140625",
-          "848437.5"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-695214.84375",
-          "670898.4375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 2 workbenches in Spickovina.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-770214.84375",
-          "515332.03125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-771386.71875",
-          "320214.84375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-731835.9375",
-          "123925.78125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is workbenches in Ugljan.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-794531.25",
-          "120996.09375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 4 workbenches in Preko.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-807421.875",
-          "70312.5"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-862207.03125",
-          "108984.375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-572900.390625",
-          "1104492.1875"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-418798.828125",
-          "1092041.015625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-404150.390625",
-          "938525.390625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-426855.46875",
-          "889746.09375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-422753.90625",
-          "827343.75"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-533496.09375",
-          "798925.78125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Vinsku Vrh.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-464355.46875",
-          "667968.75"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Prison.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-537890.625",
-          "542578.125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Blace.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-445312.5",
-          "464941.40625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Dol.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-383496.09375",
-          "434912.109375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 2 workbenches in Marof around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-365332.03125",
-          "433007.8125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Marof around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-507421.875",
-          "215332.03125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-490429.6875",
-          "145605.46875"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 2 workbenches in Rude.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-534375",
-          "70458.984375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Klis.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-382177.734375",
-          "49072.265625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 2 workbenches in Porat around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-351855.46875",
-          "39843.75"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Porat around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-148535.15625",
-          "1132910.15625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Prigorje.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-192187.5",
-          "1057910.15625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 2 workbenches in Coal mine.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-47900.390625",
-          "921533.203125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Gorica.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-117187.5",
-          "699902.34375"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Sawmill.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-96093.75",
-          "626513.671875"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Babino Polje.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-24316.40625",
-          "591650.390625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Kotoriba.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-134033.203125",
-          "522363.28125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Novakj.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-210351.5625",
-          "447363.28125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Dubrava.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-112060.546875",
-          "345556.640625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Gorni Humac.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-188818.359375",
-          "336914.0625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-284472.65625",
-          "341894.53125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-33984.375",
-          "264257.8125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-78808.59375",
-          "58007.8125"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches around this point.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-166113.28125",
-          "69726.5625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Povlja.<br><br><sub>Last update: 11/02/21</sub>"
-      },
-      {
-        "position": [
-          "-280078.125",
-          "47753.90625"
-        ],
-        "icon": "mi_ressource_work",
-        "popup": "There is 1 workbenches in Ston.<br><br><sub>Last update: 11/02/21</sub>"
+        "icon": "castleruinIcon",
+        "popup": "Spickovina Castle<br/>DEBUG(ID35482)"
       }
     ]
   },
-  "fuel": {
-    "name": "加油站",
+  "village": {
+    "name": "village",
     "markers": [
       {
         "position": [
-          "-966357.421875",
-          "939404.296875"
+          76410.438,
+          -70337.063
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>Some fuel pumps on a dock. Access with vehicles difficult or impossible<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Blace<br/>DEBUG(ID35479)"
       },
       {
         "position": [
-          "-1087500",
-          "658300.78125"
+          235014.844,
+          -180295.875
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>Some fuel pumps on a dock. Access with vehicles difficult or impossible<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Marof<br/>DEBUG(ID35473)"
       },
       {
         "position": [
-          "-1084130.859375",
-          "589599.609375"
+          531875.313,
+          28675.941
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Babino Polje<br/>DEBUG(ID35395)"
       },
       {
         "position": [
-          "-716015.625",
-          "1014550.78125"
+          596936.188,
+          -19059.279
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Kotoriba<br/>DEBUG(ID35392)"
       },
       {
         "position": [
-          "-677929.6875",
-          "721582.03125"
+          479716,
+          -84202.242
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 21/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Novaki<br/>DEBUG(ID35390)"
       },
       {
         "position": [
-          "-861035.15625",
-          "362841.796875"
+          584421.625,
+          -356359.031
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Novi Glog<br/>DEBUG(ID35384)"
       },
       {
         "position": [
-          "-775927.734375",
-          "114257.8125"
+          405811.125,
+          -166932.563
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>Some fuel pumps on a dock. Access with vehicles difficult or impossible<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Dubrava<br/>DEBUG(ID35382)"
       },
       {
         "position": [
-          "-307031.25",
-          "1107861.328125"
+          537409.875,
+          -558898.188
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Trilj<br/>DEBUG(ID35380)"
       },
       {
         "position": [
-          "-463183.59375",
-          "419531.25"
+          235365.531,
+          -360846.063
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Lobor<br/>DEBUG(ID35371)"
       },
       {
         "position": [
-          "-58447.265625",
-          "1010888.671875"
+          -68607.07,
+          -356764.781
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Jelsa<br/>DEBUG(ID35358)"
       },
       {
         "position": [
-          "-143847.65625",
-          "494238.28125"
+          -51655.477,
+          -412419.5
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Brela<br/>DEBUG(ID35356)"
       },
       {
         "position": [
-          "-283886.71875",
-          "338671.875"
+          -238367.875,
+          -401913.375
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Punat<br/>DEBUG(ID35349)"
       },
       {
         "position": [
-          "-277734.375",
-          "27832.03125"
+          -271555.875,
+          23055.652
         ],
-        "icon": "mi_ressource_fuel",
-        "popup": "<b>Fuel pumps</b><br>Type: Fuel<br>A working fuel station with several fuel pumps<br><br><sub>Last update: 25/01/21</sub>"
+        "icon": "villageIcon",
+        "popup": "Postira<br/>DEBUG(ID35330)"
+      },
+      {
+        "position": [
+          -165913.656,
+          111610.414
+        ],
+        "icon": "villageIcon",
+        "popup": "Golubovek<br/>DEBUG(ID35328)"
+      },
+      {
+        "position": [
+          -196289.578,
+          363849.188
+        ],
+        "icon": "villageIcon",
+        "popup": "Trpanj<br/>DEBUG(ID35313)"
+      },
+      {
+        "position": [
+          -281472.406,
+          427587.906
+        ],
+        "icon": "villageIcon",
+        "popup": "Turanj<br/>DEBUG(ID35311)"
+      },
+      {
+        "position": [
+          -481912.5401,
+          -336985.4036
+        ],
+        "icon": "villageIcon",
+        "popup": "Kampor<br/>DEBUG(ID35307)"
+      },
+      {
+        "position": [
+          -448908.906,
+          -139444.656
+        ],
+        "icon": "villageIcon",
+        "popup": "Drvenik<br/>DEBUG(ID35298)"
+      },
+      {
+        "position": [
+          -350541.7129,
+          -18671.2714
+        ],
+        "icon": "villageIcon",
+        "popup": "Hum<br/>DEBUG(ID35296)"
+      },
+      {
+        "position": [
+          -460905.436,
+          44894.078
+        ],
+        "icon": "villageIcon",
+        "popup": "Tijat<br/>DEBUG(ID35280)"
+      },
+      {
+        "position": [
+          -412928.0766,
+          170983.2741
+        ],
+        "icon": "villageIcon",
+        "popup": "Zmajan<br/>DEBUG(ID35278)"
+      },
+      {
+        "position": [
+          -400450.8038,
+          217010.5468
+        ],
+        "icon": "villageIcon",
+        "popup": "Prigradica<br/>DEBUG(ID35275)"
+      },
+      {
+        "position": [
+          -418198.281,
+          494223.438
+        ],
+        "icon": "villageIcon",
+        "popup": "Apitija<br/>DEBUG(ID35272)"
       }
     ]
   },
-  "vehicle": {
-    "name": "載具",
+  "military": {
+    "name": "military",
     "markers": [
       {
         "position": [
-          "-1068457.03125",
-          "902636.71875"
+          45097.809,
+          -217788.734
         ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
+        "icon": "militaryIcon",
+        "popup": "Zargorje Military Camp<br/>DEBUG(ID35476)"
       },
       {
         "position": [
-          "-1022607.421875",
-          "1091748.046875"
+          -185127.016,
+          -454249.688
         ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
+        "icon": "militaryIcon",
+        "popup": "Team Bravo Military Camp<br/>DEBUG(ID35344)"
       },
       {
         "position": [
-          "-973095.703125",
-          "950244.140625"
+          -181514.453,
+          194862.063
         ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
+        "icon": "militaryIcon",
+        "popup": "Golubovek Military Camp<br/>DEBUG(ID35341)"
       },
       {
         "position": [
-          "-1097021.484375",
-          "848730.46875"
+          -36436.469,
+          -254500.281
         ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1011914.0625",
-          "825000"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1020410.15625",
-          "778125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1064355.46875",
-          "652441.40625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1091601.5625",
-          "647167.96875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1103027.34375",
-          "682617.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-956982.421875",
-          "588867.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-946142.578125",
-          "472851.5625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1053662.109375",
-          "474023.4375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1116357.421875",
-          "422460.9375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 4<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1088964.84375",
-          "274804.6875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-979687.5",
-          "276562.5"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-947460.9375",
-          "141503.90625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1093066.40625",
-          "195996.09375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1156347.65625",
-          "142968.75"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-1153710.9375",
-          "109863.28125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-885644.53125",
-          "1028906.25"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-870996.09375",
-          "1086621.09375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-832031.25",
-          "1076074.21875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-804492.1875",
-          "964453.125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-757031.25",
-          "1095703.125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-720410.15625",
-          "1062597.65625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-633984.375",
-          "1164843.75"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-614941.40625",
-          "1012792.96875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 4<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-765820.3125",
-          "879492.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-638085.9375",
-          "879492.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-651562.5",
-          "840820.3125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-775195.3125",
-          "731250"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-841992.1875",
-          "761132.8125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-874804.6875",
-          "633398.4375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-693750",
-          "663281.25"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-826171.875",
-          "585937.5"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-720703.125",
-          "547265.625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-699609.375",
-          "415429.6875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-641015.625",
-          "353906.25"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-788671.875",
-          "320507.8125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-768164.0625",
-          "337500"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-888281.25",
-          "472851.5625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-673828.125",
-          "261914.0625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-703125",
-          "101367.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-728320.3125",
-          "123046.875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-795703.125",
-          "127734.375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-804492.1875",
-          "75585.9375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-844335.9375",
-          "215039.0625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-574804.6875",
-          "1121777.34375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-570996.09375",
-          "1100976.5625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-549023.4375",
-          "1047363.28125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-462890.625",
-          "1026855.46875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-403125",
-          "934277.34375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-419531.25",
-          "1096582.03125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-456738.28125",
-          "1160742.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-313769.53125",
-          "1152832.03125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-307617.1875",
-          "1106835.9375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-517089.84375",
-          "1048828.125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-360498.046875",
-          "863525.390625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-424218.75",
-          "783398.4375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-477539.0625",
-          "805078.125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-532031.25",
-          "790429.6875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-589453.125",
-          "859570.3125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-461865.234375",
-          "670605.46875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-354785.15625",
-          "623583.984375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-350244.140625",
-          "600000"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-533203.125",
-          "542578.125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-576562.5",
-          "457031.25"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-451904.296875",
-          "472265.625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-436523.4375",
-          "405761.71875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-380712.890625",
-          "431542.96875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-365478.515625",
-          "429492.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-329150.390625",
-          "505517.578125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-311132.8125",
-          "348339.84375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-321679.6875",
-          "241992.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-368554.6875",
-          "254003.90625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-399902.34375",
-          "261035.15625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-435644.53125",
-          "243164.0625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-445898.4375",
-          "263085.9375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-549609.375",
-          "231152.34375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-573046.875",
-          "162304.6875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-488085.9375",
-          "149414.0625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-527636.71875",
-          "71777.34375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-355078.125",
-          "43359.375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-381738.28125",
-          "53027.34375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-384082.03125",
-          "77929.6875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-187792.96875",
-          "1151074.21875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-140332.03125",
-          "1129394.53125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-193945.3125",
-          "1062597.65625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-283007.8125",
-          "1058789.0625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-255761.71875",
-          "991113.28125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-178710.9375",
-          "947167.96875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-55957.03125",
-          "929589.84375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 3<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-229394.53125",
-          "864550.78125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-27246.09375",
-          "775781.25"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-40136.71875",
-          "785742.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-131835.9375",
-          "704589.84375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-174023.4375",
-          "663281.25"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-94628.90625",
-          "627832.03125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-90380.859375",
-          "636035.15625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-80859.375",
-          "639111.328125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-21093.75",
-          "583593.75"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-225585.9375",
-          "551367.1875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-134472.65625",
-          "529394.53125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-145019.53125",
-          "498046.875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-108105.46875",
-          "452636.71875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-208886.71875",
-          "442382.8125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-111621.09375",
-          "342480.46875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-187792.96875",
-          "338671.875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-31640.625",
-          "259863.28125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-225000",
-          "246386.71875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-235400.390625",
-          "237597.65625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-284912.109375",
-          "177685.546875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-11279.296875",
-          "177685.546875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-129638.671875",
-          "163037.109375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-36621.09375",
-          "134765.625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-59765.625",
-          "41601.5625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-62988.28125",
-          "46142.578125"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-76318.359375",
-          "62109.375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-176367.1875",
-          "66503.90625"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 1<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-276562.5",
-          "49511.71875"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "Vehicle spawn(s) around this point: 2<br><br><sub>Last update: 02/02/21</sub>"
-      },
-      {
-        "position": [
-          "-251660.15625",
-          "292089.84375"
-        ],
-        "icon": "mi_vehicle",
-        "popup": "19 vehicle spawns across the city. (todo)<br><br><sub>Last update: 02/02/21</sub>"
+        "icon": "militaryIcon",
+        "popup": "Boot Camp<br/>DEBUG(ID35264)"
       }
     ]
   },
-  "poi_cave": {
-    "name": "洞窟",
+  "asylum": {
+    "name": "asylum",
     "markers": [
       {
         "position": [
-          "-1032128.90625",
-          "1162500"
+          297626.281,
+          -374941.344
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "asylumIcon",
+        "popup": "Sanitarium<br/>DEBUG(ID35464)"
+      }
+    ]
+  },
+  "police": {
+    "name": "police",
+    "markers": [
+      {
+        "position": [
+          347189.188,
+          118371.227
+        ],
+        "icon": "policeIcon",
+        "popup": "Lokve Police Station<br/>DEBUG(ID35397)"
       },
       {
         "position": [
-          "-993750",
-          "1156933.59375"
+          561343.5,
+          320756.188
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Gorica Police Station<br/>DEBUG(ID35219)"
       },
       {
         "position": [
-          "-1163818.359375",
-          "821337.890625"
+          503086.563,
+          -263938.75
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Lokve Police Station<br/>DEBUG(ID35217)"
       },
       {
         "position": [
-          "-986718.75",
-          "696093.75"
+          503086.563,
+          -263938.75
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Gorni Humac Police Station<br/>DEBUG(ID35215)"
       },
       {
         "position": [
-          "-939550.78125",
-          "311425.78125"
+          351582.156,
+          -571874.688
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Ston Police Station<br/>DEBUG(ID35213)"
       },
       {
         "position": [
-          "-689208.984375",
-          "1173486.328125"
+          254866.641,
+          -577472.125
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Porat Police Station<br/>DEBUG(ID35211)"
       },
       {
         "position": [
-          "-754687.5",
-          "1127343.75"
+          39713.859,
+          -156377.938
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Zargorje Police Station<br/>DEBUG(ID35209)"
       },
       {
         "position": [
-          "-657128.90625",
-          "958300.78125"
+          75683.18,
+          182912.359
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Vinsku Vrh Police Station<br/>DEBUG(ID35207)"
       },
       {
         "position": [
-          "-758642.578125",
-          "860888.671875"
+          191493.203,
+          499467.469
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Veliki Tabor Police Station<br/>DEBUG(ID35205)"
       },
       {
         "position": [
-          "-665771.484375",
-          "564843.75"
+          -104336.156,
+          461547.188
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Prkno Police Station<br/>DEBUG(ID35203)"
       },
       {
         "position": [
-          "-711767.578125",
-          "377490.234375"
+          -88131.977,
+          57383.367
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Spickovina Police Station<br/>DEBUG(ID35201)"
       },
       {
         "position": [
-          "-847119.140625",
-          "452636.71875"
+          -180368.109,
+          -291911.813
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Mirkovci Police Station<br/>DEBUG(ID35199)"
       },
       {
         "position": [
-          "-719824.21875",
-          "193066.40625"
+          -192795.219,
+          -494012.938
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Preko Police Station<br/>DEBUG(ID35197)"
       },
       {
         "position": [
-          "-424218.75",
-          "1134960.9375"
+          -371151.156,
+          -337797.344
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Blato Police Station<br/>DEBUG(ID35195)"
       },
       {
         "position": [
-          "-447509.765625",
-          "964599.609375"
+          -516058.281,
+          -192390.063
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Zaton Police Station<br/>DEBUG(ID35193)"
       },
       {
         "position": [
-          "-417626.953125",
-          "819433.59375"
+          -489083.063,
+          32816.77
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "policeIcon",
+        "popup": "Tisno Police Station<br/>DEBUG(ID35191)"
+      }
+    ]
+  },
+  "airfield": {
+    "name": "airfield",
+    "markers": [
+      {
+        "position": [
+          590857.688,
+          -488480.5
+        ],
+        "icon": "airfieldIcon",
+        "popup": "Airfield<br/>DEBUG(ID35377)"
+      }
+    ]
+  },
+  "prison": {
+    "name": "prison",
+    "markers": [
+      {
+        "position": [
+          152184.828,
+          62127.941
+        ],
+        "icon": "prisonIcon",
+        "popup": "Prison<br/>DEBUG(ID35361)"
+      }
+    ]
+  },
+  "quarry": {
+    "name": "quarry",
+    "markers": [
+      {
+        "position": [
+          -350866.5,
+          -143619.047
+        ],
+        "icon": "quarryIcon",
+        "popup": "South Quarry<br/>DEBUG(ID35337)"
       },
       {
         "position": [
-          "-567919.921875",
-          "867480.46875"
+          -289726.25,
+          -140399.844
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "quarryIcon",
+        "popup": "North Quarry<br/>DEBUG(ID35335)"
+      }
+    ]
+  },
+  "shootingrange": {
+    "name": "shootingrange",
+    "markers": [
       {
         "position": [
-          "-535400.390625",
-          "731103.515625"
+          -112434.305,
+          219671.188
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "shootingrangeIcon",
+        "popup": "Shooting Range<br/>DEBUG(ID35326)"
+      }
+    ]
+  },
+  "airport": {
+    "name": "airport",
+    "markers": [
       {
         "position": [
-          "-428906.25",
-          "606445.3125"
+          -50626.129,
+          260447.938
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "airportIcon",
+        "popup": "Airport<br/>DEBUG(ID35324)"
+      }
+    ]
+  },
+  "logging": {
+    "name": "logging",
+    "markers": [
       {
         "position": [
-          "-597070.3125",
-          "671777.34375"
+          498486.594,
+          89762.117
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "loggingIcon",
+        "popup": "Sawmill<br/>DEBUG(ID35269)"
+      }
+    ]
+  },
+  "industry": {
+    "name": "industry",
+    "markers": [
       {
         "position": [
-          "-502734.375",
-          "597656.25"
+          -2263.625,
+          407017.781
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "industryIcon",
+        "popup": "Factory<br/>DEBUG(ID35262)"
+      }
+    ]
+  },
+  "dam": {
+    "name": "dam",
+    "markers": [
       {
         "position": [
-          "-578320.3125",
-          "583300.78125"
+          253723.109,
+          13559.796
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "damIcon",
+        "popup": "Dam<br/>DEBUG(ID35260)"
+      }
+    ]
+  },
+  "ferry": {
+    "name": "ferry",
+    "markers": [
       {
         "position": [
-          "-452050.78125",
-          "504199.21875"
+          -553953.625,
+          -509651.844
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "ferryIcon",
+        "popup": "Naval Base<br/>DEBUG(ID35235)"
+      }
+    ]
+  },
+  "slaughterhouse": {
+    "name": "slaughterhouse",
+    "markers": [
       {
         "position": [
-          "-535839.84375",
-          "407226.5625"
+          -356636.5,
+          114152.555
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
+        "icon": "slaughterhouseIcon",
+        "popup": "Dairy Factory<br/>DEBUG(ID35229)"
+      }
+    ]
+  },
+  "aquarium": {
+    "name": "aquarium",
+    "markers": [
       {
         "position": [
-          "-316699.21875",
-          "270996.09375"
+          -363499.5671,
+          343751.2488
         ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
-      {
-        "position": [
-          "-222656.25",
-          "1010742.1875"
-        ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
-      {
-        "position": [
-          "-65039.0625",
-          "781640.625"
-        ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
-      {
-        "position": [
-          "-185595.703125",
-          "678808.59375"
-        ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
-      {
-        "position": [
-          "-44677.734375",
-          "365185.546875"
-        ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
-      },
-      {
-        "position": [
-          "-148828.125",
-          "125097.65625"
-        ],
-        "icon": "mi_poi_cave",
-        "popup": "<br><br><sub>Last update: 05/02/21</sub>"
+        "icon": "aquariumIcon",
+        "popup": "Fish Factory<br/>DEBUG(ID35227)"
       }
     ]
   }
