@@ -41,7 +41,7 @@ function App() {
     })
 
     return (
-      <LayersControl.Overlay name={overlayName}>
+      <LayersControl.Overlay name={overlayName} checked={markerGroup.checked}>
         <LayerGroup>
           {markers}
         </LayerGroup>

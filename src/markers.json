@@ -1,6 +1,7 @@
 {
   "fuel": {
     "name": "fuel",
+    "checked": true,
     "markers": [
       {
         "position": [
@@ -156,6 +157,7 @@
   },
   "car": {
     "name": "car",
+    "checked": false,
     "markers": [
       {
         "position": [
@@ -451,6 +453,7 @@
   },
   "landmark": {
     "name": "landmark",
+    "checked": false,
     "markers": [
       {
         "position": [
@@ -1146,6 +1149,7 @@
   },
   "rowboat": {
     "name": "rowboat",
+    "checked": false,
     "markers": [
       {
         "position": [
@@ -1391,6 +1395,7 @@
   },
   "ww2bunker": {
     "name": "ww2bunker",
+    "checked": false,
     "markers": [
       {
         "position": [
@@ -1746,6 +1751,7 @@
   },
   "t1bunker": {
     "name": "t1bunker",
+    "checked": true,
     "markers": [
       {
         "position": [
@@ -1991,6 +1997,7 @@
   },
   "cave": {
     "name": "cave",
+    "checked": false,
     "markers": [
       {
         "position": [
@@ -2606,6 +2613,7 @@
   },
   "town": {
     "name": "town",
+    "checked": false,
     "markers": [
       {
         "position": [
@@ -2761,6 +2769,7 @@
   },
   "village": {
     "name": "village",
+    "checked": false,
     "markers": [
       {
         "position": [
