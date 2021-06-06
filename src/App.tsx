@@ -1,4 +1,7 @@
+/// <reference path="../types/react-leaflet-div-icon.d.ts"/> 
+
 import React from 'react';
+import { renderToStaticMarkup } from "react-dom/server"
 import L from 'leaflet';
 import { MapContainer, useMapEvent, ImageOverlay, LayersControl, LayerGroup, Marker, Tooltip } from 'react-leaflet'
 import parse from 'html-react-parser'
@@ -24,11 +27,28 @@ function App() {
     const markers = markerGroup.markers.map((marker: {position: [number, number], icon: string, id: string, tooltip: string}) => {
       const markerIcon = marker.icon
       const tooltipContent = MARK_NAMES[marker.id] || marker.tooltip
-      const icon = L.icon({
-        iconUrl: `assets/Markers%20Icons/${markerIcon}.png`,
-        iconSize: [42, 42],
-        iconAnchor: [21, 42],
-        popupAnchor: [-3, -76]
+      const icon = L.divIcon({
+        html: renderToStaticMarkup(
+          <div className="marker-stack">
+            <div className="marker-pointer">
+              <img
+                src="https://icons-for-free.com/iconfiles/png/512/map+marker+icon-1320166582858325800.png"
+                alt=""
+              />
+            </div>
+            <div className="marker-icon">
+              <img
+                // src={`assets/Markers%20Icons/${markerIcon}.png`}
+                src={`assets/marker_icons/${markerIcon}.svg`}
+                alt={tooltipContent}
+              />
+            </div>
+          </div>
+        ),
+        // iconUrl: `assets/marker_icons/${markerIcon}.svg`,
+        // iconSize: [42, 42],
+        // iconAnchor: [21, 42],
+        // popupAnchor: [-3, -76]
       })
 
       return (

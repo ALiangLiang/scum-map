@@ -39,9 +39,35 @@ code {
      border-right: 0px none !important;
 }
 
-.globalmarker{
+.globalmarker {
   border: 0px none !important;
   background-color: rgba(0,0,0,0.5) !important;
   box-shadow: none !important;
   color: #FFF !important;
+}
+
+.marker-stack {
+  padding: 100px 30px;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 900px;
+  width: 42px;
+  height: 42px;
+}
+
+.marker-pointer {
+  float: left;
+  margin-left: -21px;
+  margin-top: -42px;
+  width: 42px;
+  height: 42px;
+  
+}
+
+.marker-icon {
+  float: left;
+  width: 42px;
+  height: 42px;
+  outline: none;
+  /* filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%); */
 }
